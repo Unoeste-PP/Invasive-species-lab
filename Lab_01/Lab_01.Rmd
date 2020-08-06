@@ -427,3 +427,91 @@ class: inverse, center, middle
 ```{r echo=FALSE, out.width=600, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/Zv8VKJZMFm5NKxW9k5/giphy.gif")
 ``` 
+
+
+---
+
+## Malvaceae
+
+### Características
+
+.pull-left[
+- **Ciclo de Vida**: Anual, Perene
+
+- **Folhas**: seiva viscosa, alternada, geralmente com veios palmatosos, imples, pubescente
+
+- **Flores**: variam de pequenas a grandes, perfeitas, em forma de funil, 5 pétalas separadas
+
+- **Frutos**: Cápsulas
+
+- **Plantas**: cultivadas da família Malvaceae: algodão, quiabo, malva-rosa (usado para fazer marshmallow).
+ 
+- **Classe**: dicotiledôneas
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hibiscus2324hibiscus_.jpg/220px-Hibiscus2324hibiscus_.jpg")
+``` 
+]
+
+
+
+---
+
+## Convolvulaceae
+
+### Características
+
+
+.pull-left[
+- **Ciclos de vida**: Anual, Perene
+
+- **Hastes**: Entrelaçamento, escalada, trepadeiras
+
+- **Folhas**: na maioria simples, alternadas, com lóbulos pinçados
+
+- **Inflorescência**: auxiliar, solitária
+
+- **Flores**: perfeitas, pequenas e discretas a grandes e vistosas
+
+- **Classe**: dicotiledôneas
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://cdn.britannica.com/42/137442-050-46DDCACD/Field-bindwind.jpg")
+``` 
+]
+
+
+---
+
+## Solanaceae
+
+### Características
+
+Nenhuma característica única comum nessa família
+
+.pull-left[
+- **Folhas**: geralmente alternadas, simples, peludas, com odor característico, pecíolo, ovo ou formato triangular
+
+- **Inflorescência**: racemos ou umbels
+
+- **Flores**: perfeitas, em pequenos grupos, tipicamente branco ou rosa
+
+- **Frutas**: baga ou cápsula
+
+- **Cultivado**: tomate, batata, pimentão, berinjela, tabaco, pimentão, petúnias
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Nightshade.jpg")
+``` 
+]
+
+
+
+
