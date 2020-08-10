@@ -37,6 +37,217 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 
 
 
+
+class: inverse
+
+## Brassicaceae
+
+### Características
+
+.pull-left[
+
+- **Ciclos de vida**: Anual (verão e inverno)
+
+- **Raízes**: pivotante
+
+- **Inflorescência**: racemos indeterminados com muitas flores
+
+- **Flores**: azul, vermelho, branco ou amarelo. Pequeno com 4 pétalas e 4 sépalas dispostas como uma cruz.
+
+- **Frutos**: silique ou silicle
+
+- **Reprodução**: semente, estoque de raízes
+
+- **Variedades cultivadas**: repolho, nabo, rabanete, crambe, canola
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b8/Barbarea_vulgaris_002.JPG")
+``` 
+]
+
+
+
+---
+
+## *Raphanus raphanistrum*
+
+#### Nome comum: nabo ou nabiça
+
+.pull-left[
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://content.eol.org/data/media/00/1e/9b/8.6029390022.jpg")
+``` 
+]
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-COT-700.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://alchetron.com/cdn/raphanus-raphanistrum-0be31d0b-37f4-40f0-8a2e-1587d9a5516-resize-750.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-SEE-700.JPG")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-MAT-700.jpg")
+``` 
+]
+
+
+---
+
+
+
+
+## Cucurbitaceae
+
+### Características
+
+.pull-left[
+
+750-1000 espécies em todo o mundo - Principalmente regiões tropicais
+
+- **Ciclos de vida**: 
+
+- **Raízes**: 
+
+- **Inflorescência**: 
+
+- **Flores**: Principalmente trepadeiras
+
+- **Frutos**: 
+
+- **Reprodução**: 
+
+- **Variedades cultivadas**: pepinos, abóboras, melões, cabaças
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luffa_operculata_01.JPG/253px-Luffa_operculata_01.JPG")
+``` 
+]
+
+
+
+
+---
+
+## Fabaceae
+
+### Características
+
+.pull-left[
+
+- Principalmente herbáceas, mas existem muitos arbustos e árvores
+
+- As **folhas** são estipuladas e quase sempre se alternam. Pode ser composto de forma pontual ou palmatosa ou simples.
+
+- A **fruta** é geralmente uma leguminosa
+
+- As **flores** geralmente estão em racemos, pontas ou cabeças
+
+- As **variedades cultivadas** incluem soja, amendoim, alfafa e ervilha
+]
+
+
+
+.pull-right[
+
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/58/Vicia_villosa_schote.jpeg")
+``` 
+]
+
+---
+
+## *Glycine max*
+
+#### Nome comum: soja voluntária
+
+.pull-left[
+
+- A primeira folha verdadeira é trifoliada e é alternada para a segunda folha verdadeira
+
+- **Cotilédones:** oblongo, oposto
+
+- **Caule:** ereto ou ascendente, pubescente, alternadamente ramificado
+
+- **Raiz:** pivotante
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("images/soy_03.png")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/soy_01.png")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/soy_02.png")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://dam.farmjournal.com/m/73beddb90231e1a/webimage-5712E6A3-2732-4AA7-AEBEE4FC1963E803.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://cropwatch.unl.edu/image/image_gallery/uuid%3D733c81c2-308e-45c8-a0bb-07ee75545b70%26groupId%3D1841%26t%3D1372797454178")
+``` 
+]
+
+
+---
+
+## Lamiaceae
+
+### Características
+
+.pull-left[
+
+- Caule quadrado
+
+- Folhas opostas ou enroladas
+
+- Muitas espécies aromáticas
+
+- Herbáceas
+]
+
+
+
+.pull-right[
+
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/58/Vicia_villosa_schote.jpeg")
+``` 
+]
+
+
+
 ---
 
 ## Chenopodiaceae
@@ -238,6 +449,29 @@ knitr::include_graphics("https://www.fireflyforest.com/images/wildflowers/plants
 ``` 
 ]
 
+---
 
+## Solanaceae
 
+### Características
+
+Nenhuma característica única comum nessa família
+
+.pull-left[
+- **Folhas**: geralmente alternadas, simples, peludas, com odor característico, pecíolo, ovo ou formato triangular
+
+- **Inflorescência**: racemos ou umbels
+
+- **Flores**: perfeitas, em pequenos grupos, tipicamente branco ou rosa
+
+- **Frutas**: baga ou cápsula
+
+- **Cultivado**: tomate, batata, pimentão, berinjela, tabaco, pimentão, petúnias
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Nightshade.jpg")
+``` 
+]
 

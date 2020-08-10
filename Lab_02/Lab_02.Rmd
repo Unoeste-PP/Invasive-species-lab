@@ -38,34 +38,6 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 
 
 
-
-
-## Solanaceae
-
-### Características
-
-Nenhuma característica única comum nessa família
-
-.pull-left[
-- **Folhas**: geralmente alternadas, simples, peludas, com odor característico, pecíolo, ovo ou formato triangular
-
-- **Inflorescência**: racemos ou umbels
-
-- **Flores**: perfeitas, em pequenos grupos, tipicamente branco ou rosa
-
-- **Frutas**: baga ou cápsula
-
-- **Cultivado**: tomate, batata, pimentão, berinjela, tabaco, pimentão, petúnias
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=450, fig.align='center'}
-knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Nightshade.jpg")
-``` 
-]
-
-
-
 ---
 
 class: inverse
@@ -77,23 +49,30 @@ class: inverse
 
 .pull-left[
 
+Principalmente ervas e arbustos
+
 - **Ciclos de vida**: Anual 
 
 - **Raízes**: pivotante
 
-- **Inflorescência**: 
+- **Inflorescência**: cachos pontiagudos, geralmente espinhosos
 
-- **Flores**: 
+- **Flores**: pequenas, actinomórficas (radialmente simétricas); pétalas ausentes
 
-- **Frutos**: 
+- **Folhas**: simples, principalmente inteiras
 
-- **Reprodução**: 
+- **Caules**: frequentemente suculentos e / ou articulados
 
 - **Variedades cultivadas**: 
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://plants.sc.egov.usda.gov/gallery/standard/amre_003_shp.jpg")
+``` 
+
+
+```{r echo=FALSE, out.width=200, fig.align='center'}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/26/Amaranthus_retroflexus_full1.jpg")
 ``` 
 ]
@@ -105,24 +84,201 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/26/Ama
 
 #### **Nome comum**: apaga-fogo
 
+.pull-left[
+- **Ciclo de vida:** anual ou perene
 
+- **Caule:** o caule  principal apresenta ramificação radial e esta se ramifica em dicotomia ou 3  ramos
+
+- **Folhas:** simples desprovidas de pecíolo, filotaxia oposta, limbo  lanceolado com margem inteira e apículo terminal
+
+- **Inflorescência:** glomérulos contendo tépalas brancas, secas e livres entre si
+
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/tenella_01.png")
+``` 
+]
 
 
 
 ---
 
-## *Alternanthera viridis*
 
-#### **Nome comum**: caruru-de-mancha
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Alternanthera%20tenella6.jpg")
+``` 
 
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/e/e1/Alternanthera_tenella_Colla._%2815216261255%29.jpg")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("images/tenella_02.png")
+``` 
+
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("http://chaves.rcpol.org.br/resized/eco-0B0nUXAibCfVGT0R6ZTMtRlNGcmc.jpeg")
+``` 
+]
+
+---
+
+## *Amaranthus deflexus*
+
+#### **Nome comum**: caruru-rasteiro
+
+
+.pull-left[
+**Ciclo de vida**: anual, geralmente prostrada
+
+**Folhas:** glabro e levemente pubescente com nervuras impressas
+
+**Caule:** glabro e levemente estriado
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/klBS-EKsskAQGOGY_JjSlcPEeVetc-MtXJRjHGX6a0ha8bev758YeqIcEIzu9CqwYYbwlTZ_sCZRiWUjtlp8dDWWAdoZpJ7k-6qaLiZOE_SJXh-DY8WYjAhMvHn9CqeHqnGAo1ynrb3H")
+``` 
+
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Amaranthaceae/amaranthus-deflexus-le-mhassler.jpg")
+``` 
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Amaranthaceae/amaranthus-deflexus-fr-atate.jpg")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Amaranthaceae/amaranthus-deflexus-ha-lrignanese1.jpg")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://previews.agefotostock.com/previewimage/medibigoff/29e52cacc74326ee334a46f9ac8b02af/vd7-3177390.jpg")
+``` 
+
+
+]
 
 
 
 ---
+
+
 
 ## *Amaranthus hybridus*
 
 #### **Nome comum**: caruru-roxo
+
+
+.pull-left[
+**Caules:** Ascendente para ereto, até 2 m, pubescente
+
+**Folhas:** Alternadas, pecioladas. Pubescente (pelos finos muito pequenos)
+
+**Inflorescência:** Verde opaco ou acinzentado, ocasionalmente tingido de vermelho, altamente ramificado
+
+**Reprodução:** Monóica (M e F na mesma planta)
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://d2seqvvyy3b8p2.cloudfront.net/e5fd2cf785e35944ac33013fa52deecf.jpg")
+``` 
+]
+
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://bugwoodcloud.org/images/768x512/5374133.jpg")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("http://missouriplants.com/images/Amaranthus_hybridus_stem.jpg")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("http://missouriplants.com/images/Amaranthus_hybridus_leaves.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://maissoja.com.br/wp-content/uploads/2020/05/figura-4-5.png")
+``` 
+]
+
+---
+
+## *Amaranthus retroflexus*
+
+#### **Nome comum**: caruru-gigante
+
+
+.pull-left[
+**Cotilédones**: lineares, sem pelos, peciolados
+
+**Folhas:** simples, alternada, peciolada, pubescente, forma ovalada a lanceolada, inteira até as margens dentadas, aparecem "enrugadas", a superfície pode ser pubescente em ambos os lados, veias proeminentes
+
+**Caule:** ereto, cor avermelhada, pubescente, pode apresentar linhas ou sulcos
+
+**Raízes superiores:** cor rosa a vermelha
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://ucanr.edu/blogs/SJVAgronomyWeedScienceBlog/blogfiles/53214_original.jpg")
+``` 
+
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://www.maine.gov/dacf/php/gotpests/weeds/images/pigweed/pigweed-root-big.jpg")
+``` 
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://www.canr.msu.edu/uploads/images/6-15-11%20DAN%20pic%202.jpg")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("http://ucanr.edu/blogs/sjvagronomyweedscienceblog/blogfiles/53213.jpg")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.canr.msu.edu/pestid/uploads/images/Redroot-pigweed-stem.jpg")
+``` 
+
+
+]
 
 
 
@@ -133,7 +289,52 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/26/Ama
 
 #### **Nome comum**: caruru-de-espinho
 
+.pull-left[
+**Sementes**: Quando as sementes são debulhadas, as sépalas são ligeiramente mais longas que as sementes
 
+**Folhas**: membranáceas e com manchas arroxeadas - 2 espinhos na base de cada pecíolo
+
+**Caules**: macios, or verde ou púrpura avermelhada e podem ser sem pelos (ou seja, glabros)
+
+**Flor**: Flores femininas na parte do meio para baixo, flores masculinas na parte de cima da planta
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/amaranthus_spinosus27.jpg?itok=3NZNmyHG")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("images/spiny.png")
+``` 
+
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/amaranthus_spinosus29.jpg?itok=1uI7hFfS")
+``` 
+
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("http://uspest.org/weeds/id/Spiny_amaranth--Amaranthus_spinosus--s.i.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/amaranthus_spinosus24.jpg?itok=10pUC74N")
+``` 
+
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/amaranthus_spinosus36.jpg?itok=NDSr0Ygi")
+``` 
+]
+
+
+**Habitat:** Uma planta daninha de beira de estradas, locais perturbados, áreas devastadas, caminhos pedonais, jardins, pátios, pastagens, lavouras e pousios.
 
 ---
 
@@ -141,9 +342,102 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/26/Ama
 
 #### **Nome comum**: Palmer amaranth
 
+.pull-left[
+**Cotilédones**: lineares, sem pelos
+
+**Folhas**: simples, alternadas, glabras, pecioladas longas, lanceoladas ou ovais, margens inteiras, primeiras folhas verdadeiras de forma ovalada e ligeiramente entalhadas na ponta da lâmina foliar
+
+**Caules**: Eretos, ramificados
+
+**Flor**: dióica (as flores são masculinas ou femininas; cada planta possui apenas um sexo)
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/palmer_01.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.mda.state.mn.us/sites/default/files/inline-images/infestation2.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("images/palmer_02.jpg")
+``` 
+
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/0YfF0a9uRjL6QWNxzLMRiphj_amE0ps3-QbBnuYgqLzgQ_j7hIVUUh2kt4YqXgxqestYPwpm5Xz2eGFSdxwlcumJ3OnN6F6wt4uf8N5mXi8Jl0RFvSXwjHR1iO7Hzi5BRZQxBtqbqAA")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://3.bp.blogspot.com/-QCrrcfsGJKI/W8YfEunEEvI/AAAAAAAAFgs/5JNu3ZjOwN4krCZ2XVxiH0X3p2_2S3N4wCLcBGAs/s1600/Palmer%2Bamaranth%2Bclose%2Bup%2BPhoto%2BCredit%2BBruce%2BPotter%2BIPM%2BSpecialist%2BU%2Bof%2BMN%2BExtension.jpg")
+``` 
+
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://bloximages.newyork1.vip.townnews.com/farmforum.net/content/tncms/assets/v3/editorial/2/0c/20cf90fa-c253-5f0c-a882-d192ef07e6fa/5e86790187fe4.image.jpg?resize=1200%2C900")
+``` 
+]
+
+---
+
+## *Amaranthus viridis*
+
+#### **Nome comum**: caruru-de-mancha
+
+.pull-left[
+- **Ciclo de vida:** anual 
+
+- **Caules:** geralmente ereto, com pubescência curta esparsa na parte superior, glabro na parte inferior
+
+- **Folhas** ovadas, alongadas rômbico-ovadas, 2-6 cm de comprimento, base amplamente curva, arredondada, ápice rombudo ou ligeiramente marginalizado, verde escuro. Frequentemente com uma mancha violácea no centro da lâmina
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/KxWgoZQqQawWQk6tiBmxt-isl478_nUT0T0b-A44iSOvLSDQfpuXdr8O4cldwWa7U8wDNiae-JpcnQnEQ5eZQJKlDDgdVQH-nepJKclh6QPFSywIS-mKhD3WdCFpCLFFZ7B3ZYU")
+``` 
+]
+
 
 
 ---
+
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/amaranthus_viridis15.jpg?itok=bX42w16R")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Amaranthus_viridis_Inflorescens_Closeup_TorreLaMata.jpg/1200px-Amaranthus_viridis_Inflorescens_Closeup_TorreLaMata.jpg")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Amaranthaceae/amaranthus-viridis-st-jgwaltney.jpg")
+``` 
+
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/7aWAirDio1e6MaR9JLwA3D4E8uHk4u5CfolWv0RMEMoope_Tu-bEIyMVAWgUYx1RJYc8a4sRReNrzpM9awrj7EOGX_Cks0pS_Jm_Q6rmGnJ6qAFr84vX")
+``` 
+]
+
+---
+
+
+
+
+
 
 class: inverse
 
@@ -183,6 +477,36 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 
 
 
+.pull-right[
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://http2.mlstatic.com/carrapicho-rasteiro-acanthospermum-australe-20-sementes-D_NQ_NP_621905-MLB25084514538_102016-F.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/wQ4nFQ4BSLKHQZVsLiAg23i38ID3zOqcXAI33qjBSA8j1ePwFc52DWXWnHgoCdhdfdyFo0kzIBL1Wnk7luh1rc68qrM")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://live.staticflickr.com/1475/25358857861_a2b0f905b8_b.jpg")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Acanthospermum%20australe1.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://curapelasplantas.com.br/wp-content/uploads/2018/05/Carrapicho-rasteiro-3.jpg")
+``` 
+
+]
 
 
 ---
@@ -190,6 +514,42 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 ## *Acanthospermum hispidum*
 
 #### Nome comum: carrapicho-de-carneiro
+
+.pull-left[
+
+]
+
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/lUGHZqf3ZefXjiB2hsWjlsUmP6jSyScguAT2KT4QYZQkzepDt8mYgRTCukNmjsRW4XovZ046OBmsb8TBOKIlCW_I7guCOaFX2W2r5-n2OAayRtbSrSsOJtllHH_vgAtxMHR2UQkmxDdT1dUzeGqCoXUl")
+``` 
+
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/FXMh4fdigdfdR1fXxkhBzhYp-cSVbNbtq9y1MNMRH_9-RHJGQuPSwnlf5Y-RhUQQRnSoRvOrRAF7Dr3_UvwNuVTR72xf6zjPscxs8dVZGCIaUHhRMIcnY4SGC8cKjKjqXZoJ34WOXjer1z5Gd6sbcVCN")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://http2.mlstatic.com/sementes-de-carrapicho-de-carneiro-acanthospermum-hispidum-D_NQ_NP_819367-MLB27081841004_032018-F.jpg")
+``` 
+]
+
+.pull-right[
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/ESq6LEtrmqEroCneKoRECuhuof9bmqwn7sxvIg-2rbf37WR03knsYUgLfFDZVIbrz4Ox1j5T0N_XaY19tGJVYIudwNgGs0lJN2YsBjDIOtttLQ2GsRmlJr3w3b-GR28A6lidPWsyZOAw48KTr7n6jRT2")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/c/c7/Acanthospermum_hispidum_W2_IMG_2208.jpg")
+``` 
+]
 
 
 
@@ -200,9 +560,38 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 
 #### Nome comum:  mentrasto
 
+.pull-left[
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/38lg50Kj-fb_4oDKZ0dN7xPT7pb6lukXzNkaFLMN-XiVpo-h7q69csWMldrM80bCK7vEQYg7v6OygaUBnTX19P7KgPAcmEUHZowaJajRMcty5JWn")
+``` 
+]
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://newfs.s3.amazonaws.com/taxon-images-1000s1000/Asteraceae/ageratum-conyzoides-ha-kstarr2.jpg")
+``` 
+
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://d2seqvvyy3b8p2.cloudfront.net/89a6526cc7b73191ae4bd38892a1ec6e.jpg")
+``` 
+]
 
 
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://keys.lucidcentral.org/keys/v3/daisy_fruit/key/daisy_fruit/Media/Html/assets/image/Ageratum_conyzoides/Ageratum_conyzoides_CANB466587_fourseeds.jpg")
+``` 
 
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/images/Ageratum_conyzoides_(Billygoat_Weed)/ageratum_conyzoides_conyzoides22.jpg")
+``` 
+
+]
 
 
 ---
@@ -211,19 +600,91 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 
 #### Nome comum: picão preto
 
+.pull-left[
 
 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://live.staticflickr.com/5175/5448535490_f52504f807_b.jpg")
+``` 
+]
 
 
+---
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/pilosa_01.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://phytus.s3.amazonaws.com/apps/clubephytus-api/ckeditor_upload/2019-10-17-14-01_1.png")
+```
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/pilosa_02.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/pilosa_03.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/5FyqePFR6HQQPKuJyAx-Y0xg5Y6j-8uEaV_VKF8liXkr1YrF6_1f6S5blPqCN04htXSk2rMH-5H1WqUkn2YFwECYp3MCTlBO718pGucn4WnZrgLkYCXV")
+```
+
+]
 
 ---
 
 ## *Bidens subalternas*
 
-#### Nome comum: picão branco
+#### Nome comum: picão 
 
 
+.pull-left[
 
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/subalternans_05.png")
+``` 
+]
+
+
+---
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/subalternans_01.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://apps.lucidcentral.org/plants_se_nsw/images/entities/bidens_subalternans/bidens_subalternans_cc_oxley_wild_rs_np2_john_tann.jpg")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/subalternans_02.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/subalternans_03.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/8_oA-is6y9Gn15kkcz1jYFzDtqpRtfDsgoByaIWrdBMbWmu4a9MC2k1KrGKJfWAfZnI7GGt1zWURjd7Hho9UVFIiRBwVY_oktOGp-lwRwOLGWJB_DuhFig1ogxLaptkJGPMi2VJyffgQw_866cDbRwvxlO8I9ldwIH5VkQ")
+```
+
+]
 
 ---
 
@@ -237,11 +698,150 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 
 ---
 
-## *Conyza* spp.
+## *Conyza canadensis*
 
 #### Nome comum: buva
 
+.pull-left[
 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://plants.sc.egov.usda.gov/gallery/large/coca5_007_lvp.jpg")
+```
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=220, fig.align='center'}
+knitr::include_graphics("https://plants.sc.egov.usda.gov/gallery/large/coca5_009_lvp.jpg")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://s3.amazonaws.com/eit-planttoolbox-prod/media/images/Conyza_rosette.jpg")
+```
+]
+
+
+.pull-right[
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://extension.umass.edu/landscape/sites/landscape/files/weeds/stems/erica6962w.jpg")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://img.plantsam.com/wp-content/uploads/2016/07/Conyza-canadensis.jpg")
+```
+]
+
+---
+
+## *Conyza bonariensis*
+
+#### Nome comum: buva
+
+.pull-left[
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Conyza_bonariensis_2.jpg/1200px-Conyza_bonariensis_2.jpg")
+```
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://keys.lucidcentral.org/keys/v3/daisy_fruit/key/daisy_fruit/Media/Html/assets/image/Conyza_bonariensis/Conyza_bonariensis_Crisp_3969_single_seed_16x_small.jpg")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/bonariensis_03.png")
+```
+]
+
+
+.pull-right[
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/bonariensis.png")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/bonariensis_01.png")
+```
+]
+
+---
+
+## *Conyza sumatrensis*
+
+#### Nome comum: buva
+
+.pull-left[
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/conyza%20sumatrensis7.jpg")
+```
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/conyza%20sumatrensis3.jpg")
+```
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/conyza%20sumatrensis1.jpg")
+```
+]
+
+
+.pull-right[
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/conyza%20sumatrensis5.jpg")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/conyza%20sumatrensis6.jpg")
+```
+]
+
+
+
+
+
+
+
+
+---
+
+.pull-left[
+*C. canadensis*
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plants.sc.egov.usda.gov/gallery/pubs/coca5_002_pvp.jpg")
+```
+]
+
+
+.pull-right[
+*C. bonariensis*
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/AfGL1aYJEWiTB7CSKI91ArUsqGbFsQlqkmjittcGhW8KREqrGVGXEr7R57UGyarZaZXskFTYLBqeriaQNS7Sr0XzoXl8wRoSuIPPeV6WUhwkxzYnYCAq7T10HwHzZOlSA8m8Cc1Q4La7mKU_cSG3rrKBjuu4gLzp")
+```
+]
 
 ---
 
@@ -249,15 +849,44 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 
 #### Nome comum: falsa-serralha
 
+.pull-left[
 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Emilia_sonchifolia85.jpg")
+```
+]
 
 
 
 ---
 
-## *Eupatorium pauciflorum*
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Emilia_sonchifolia81.jpg")
+```
 
-#### Nomes comum: botão-azlu, mata-pasto
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/f/f3/Emilia_sonchifolia_leaf_on_stem1_%2814043760732%29.jpg
+")
+```
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Emilia_sonchifolia88.jpg")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/emilia_sonchifolia_javanica21.jpg?itok=pPbyWUb5")
+```
+
+]
+
 
 
 ---
@@ -266,25 +895,75 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 
 #### Nome comum: botão-de-ouro
 
+.pull-left[
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.flora-west-europa.eu/photos/GASPA-cotyledon-W-11_1353251200.jpg")
+```
+]
+
+
 
 
 
 ---
 
-## *Melampodium perfoliatum*
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.flora-west-europa.eu/photos/GASPA-adult-W-42_1349002811.jpg")
+```
+]
 
-#### Nome comum: estrelinha
 
+.pull-right[
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://www.flora-west-europa.eu/photos/GASPA-stalkW-44_1344497143.jpg")
+```
 
-
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www2.dijon.inrae.fr/hyppa/photos/gaspa_s1.jpg")
+```
+]
 
 ---
+
 
 ## *Parthenium hysterophorus*
 
 #### Nome comum: losna-branca
 
 
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://static.inaturalist.org/photos/13901631/large.jpeg?1520203083")
+```
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://static.inaturalist.org/photos/16908937/large.jpeg?1525048232")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://nt.gov.au/__data/assets/image/0016/230209/parthenium-fruit-and-seeds.jpg")
+```
+
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/images/Parthenium_hysterophorus_(Parthenium_Weed)/parthenium_hysterophorus51.jpg")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://keys.lucidcentral.org/keys/v3/eafrinet/weeds/key/weeds/Media/Html/images/Parthenium_hysterophorus_(Parthenium_Weed)/parthenium_hysterophorus31.jpg")
+```
+]
 
 
 ---
@@ -293,14 +972,40 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/c/
 
 #### Nome comum: serralha
 
+.pull-left[
 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://www.panteek.com/CurtisFlora/images/cfl53-261.jpg")
+```
+]
 
 ---
 
-## *Tridax procumbens*
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plants.sc.egov.usda.gov/gallery/large/sool_003_lhp.jpg")
+```
 
-#### Nome comum: erva-de-touro
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/5f/Sonchus_oleraceus_2018-05-01_9904.jpg")
+```
 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/QLxMPmJeSuFBHpIAapulSWAQxdkP8a4K0dtCY7HVND4C39aKV_Zhjvxuk2JgZuFChHvZ4KFK-Oxl3aWC_X5osHFWcCOp0k1QkO92IYPL-FWmBCz8J9KznQ0jUNSua0ri-dSCPm96srlBc00aVAOQBOaNUxfFnWiwmOe3yAGxOKogoSDT59WuSfLgR-KgVVCX3k9b99H9Xw")
+```
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://candidegardening.com/img/623a76ff-c64a-4d63-afa2-8249b909f3be/cropped/648x520")
+```
+]
 
 
 
@@ -347,6 +1052,37 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b8/Bar
 
 #### Nome comum: nabo ou nabiça
 
+.pull-left[
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://content.eol.org/data/media/00/1e/9b/8.6029390022.jpg")
+``` 
+]
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-COT-700.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://alchetron.com/cdn/raphanus-raphanistrum-0be31d0b-37f4-40f0-8a2e-1587d9a5516-resize-750.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-SEE-700.JPG")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-MAT-700.jpg")
+``` 
+]
+
 
 ---
 
@@ -389,62 +1125,6 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/2/
 
 
 
----
-
-## Fabaceae
-
-### Características
-
-.pull-left[
-
-- Principalmente herbáceas, mas existem muitos arbustos e árvores
-
-- As **folhas** são estipuladas e quase sempre se alternam. Pode ser composto de forma pontual ou palmatosa ou simples.
-
-- A **fruta** é geralmente uma leguminosa
-
-- As **flores** geralmente estão em racemos, pontas ou cabeças
-
-- As **variedades cultivadas** incluem soja, amendoim, alfafa e ervilha
-]
-
-
-
-.pull-right[
-
-
-```{r echo=FALSE, out.width=350, fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/58/Vicia_villosa_schote.jpeg")
-``` 
-]
-
-
----
-
-## Lamiaceae
-
-### Características
-
-.pull-left[
-
-- Caule quadrado
-
-- Folhas opostas ou enroladas
-
-- Muitas espécies aromáticas
-
-- Herbáceas
-]
-
-
-
-.pull-right[
-
-
-```{r echo=FALSE, out.width=350, fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/58/Vicia_villosa_schote.jpeg")
-``` 
-]
 
 
 
