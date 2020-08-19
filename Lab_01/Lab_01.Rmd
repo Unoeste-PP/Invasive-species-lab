@@ -60,7 +60,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 
 
 
-## Calendário
+## Calendário (tentativa)
 
 - **11 agosto**: Aula inaugural - Introdução as práticas no lab
 
@@ -91,17 +91,24 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 
 - **20 outubro**: Calibração de herbicidas
 
-- **27 outubro**: 
+- **27 outubro**: Herbicidas auxínicos
 
-- **3 novembro**: 
+- **3 novembro**: à definir
 
-- **10 novembro**: 
+- **10 novembro**: à definir
 
-- **17 novembro**: 
+- **17 novembro**: à definir
 
-- **24 novembro**: 
+- **24 novembro**: à definir
 
-- **1 dezembro**: 
+- **1 dezembro**: à definir
+
+---
+
+## Referências
+
+- Harri Lorenzi (2014) Manual de Identificação e controle de plantas daninhas
+
 
 ---
 
@@ -540,6 +547,7 @@ knitr::include_graphics("images/flores.png")
 ```{r echo=FALSE, out.width=600, fig.align='center'}
 knitr::include_graphics("http://midia.atp.usp.br/imagens/redefor/EnsinoBiologia/Botanica/Top08_fig12w.jpg")
 ``` 
+
 ]
 
 
@@ -570,79 +578,3 @@ knitr::include_graphics("http://www.vplants.org/portal/images/vplants/plants/glo
 knitr::include_graphics("http://www.vplants.org/portal/images/vplants/plants/glossary/plate11.jpg")
 ``` 
 ]
-
-
----
-
-class: inverse, center, middle
-
-
-# Identificação de Plantas Daninhas
-
-
-```{r echo=FALSE, out.width=600, fig.align='center'}
-knitr::include_graphics("https://media.giphy.com/media/Zv8VKJZMFm5NKxW9k5/giphy.gif")
-``` 
-
-
----
-
-## Malvaceae
-
-### Características
-
-.pull-left[
-- **Ciclo de Vida**: Anual, Perene
-
-- **Folhas**: seiva viscosa, alternada, geralmente com veios palmatosos, imples, pubescente
-
-- **Flores**: variam de pequenas a grandes, perfeitas, em forma de funil, 5 pétalas separadas
-
-- **Frutos**: Cápsulas
-
-- **Plantas**: cultivadas da família Malvaceae: algodão, quiabo, malva-rosa (usado para fazer marshmallow).
- 
-- **Classe**: dicotiledôneas
-]
-
-
-.pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hibiscus2324hibiscus_.jpg/220px-Hibiscus2324hibiscus_.jpg")
-``` 
-]
-
-
-
----
-
-## Convolvulaceae
-
-### Características
-
-
-.pull-left[
-- **Ciclos de vida**: Anual, Perene
-
-- **Hastes**: Entrelaçamento, escalada, trepadeiras
-
-- **Folhas**: na maioria simples, alternadas, com lóbulos pinçados
-
-- **Inflorescência**: auxiliar, solitária
-
-- **Flores**: perfeitas, pequenas e discretas a grandes e vistosas
-
-- **Classe**: dicotiledôneas
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://cdn.britannica.com/42/137442-050-46DDCACD/Field-bindwind.jpg")
-``` 
-]
-
-
-
-
-
-
