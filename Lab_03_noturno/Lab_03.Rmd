@@ -1,0 +1,926 @@
+---
+title: "Manejo Integrado de Plantas Daninhas"
+subtitle: "Lab 3"
+author: "Maxwel Coura Oliveira🌱<br/>Department de Agronomia<br/>Universidade do Oeste Paulista"
+date: "<table style=\"border-style:none;padding-top:30px;\" class=\".table\">
+  <tr>
+    <th style=\"padding-right:75px!important\"><a href=\"https://twitter.com/maxwelco\"> <i class=\"fa fa-twitter\"></i> </a></th>
+    <th style=\"padding-left:75px!important\"><a href=\"https://maxweeds.rbind.io\"> <i class=\"fa fa-id-badge\"></i> </a></th>
+  </tr>
+  <tr style=\"background-color:#fff\">
+    <th style=\"padding-right:75px!important\"><a href=\"https://github.com/maxwelco\"> @maxwelco </a></th>
+    <th style=\"padding-left:75px!important\"><a href=\"https://maxweeds.rbind.io\"> maxweeds.rbind.io </a></th>
+  </tr></table>"
+output:
+  xaringan::moon_reader:
+    css: ['robot', 'robot-fonts']
+#   css: ['xaringan-themer.css']
+    self_contained: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(
+  echo = FALSE,
+  fig.align = "center",
+  message = FALSE,
+  warning = FALSE,
+  cache = TRUE
+)
+
+htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
+```
+
+
+## Euphorbiaceae
+
+### Características
+
+.pull-left[
+- **Ciclo de Vida**: 
+
+- **Folhas**: 
+
+- **Flores**: 
+
+- **Frutos**: 
+
+- **Plantas**: cultivadas da família euphorbiaceae: 
+ 
+- **Classe**: dicotiledôneas
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/2/2c/Mamona_%28Victor_Hugo_Almeida%29.jpg")
+``` 
+]
+
+---
+
+
+
+## *Euphorbia heterophylla*
+
+#### **Nome comum**: amendoim bravo, leiteira
+
+.pull-left[
+
+**Ciclo de vida**: 
+
+**Folhas**: 
+
+**Caules**: 
+
+**Reprodução**: 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("images/leiteira_10.png")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://cnas-re.uog.edu/wp-content/uploads/2015/10/euph-heterophylla-seed1.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("http://www.sites.encode.com.br/eou-mrm/rrplus/wp-content/uploads/2017/06/2014092612522488986-600x470.jpg")
+``` 
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("images/bravo.png")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=150, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Euphorbia_heterophylla95.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Euphorbia_heterophylla81.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("images/bravo_2.png")
+``` 
+]
+
+
+---
+
+## *Euphorbia hirta*
+
+#### **Nome comum**: erva de santa luzia
+
+.pull-left[
+
+**Ciclo de vida**: anual, prostrada a ascendente, com ramos de 50 cm de comprimento; planta pilosa inteira, incluindo inflorescência e cápsulas
+
+**Folhas**:  ovais, margem finamente dentada, superfície superior às vezes quase glabra, manchada púrpura especialmente na região da nervura central
+
+
+**Flores**: *Flores masculinas:* bracteoles lineares, fimbriadas; estames 1 mm. longo. *Flor feminina:* ovário pouco pedicelado; estilos 0,4 mm. longo, espalhando-se, bífido quase até a base, com ápices espessados.
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://storage.googleapis.com/powop-assets/PPA/0551_0600/h0577c_fullsize.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("http://d2seqvvyy3b8p2.cloudfront.net/d93ba081bef91606929195c1a1164727.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://storage.googleapis.com/powop-assets/PPA/0551_0600/h0577l_fullsize.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://storage.googleapis.com/powop-assets/PPA/0551_0600/h0577b_fullsize.jpg")
+``` 
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("http://d2seqvvyy3b8p2.cloudfront.net/6b6dc062f9ea8db75c3661167168565b.jpg")
+``` 
+
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://storage.googleapis.com/powop-assets/PPA/0551_0600/h0577d_fullsize.jpg")
+``` 
+]
+
+
+---
+
+## *Ricinus communis*
+
+#### **Nome comum**: mamona
+
+.pull-left[
+
+**Ciclo de vida**: 
+
+**Folhas**:  
+
+**Caules**: 
+
+**Reprodução**: 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Illustration_Ricinus_communis0.jpg/1200px-Illustration_Ricinus_communis0.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/ricinus_communis2.jpg?itok=maDb34_0")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/ricinus_communis14_-_fks.jpg?itok=Uy_AJqlC")
+``` 
+
+
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/ricinus_communis6.jpg?itok=uCEcX6qH")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/ricinus_communis3.jpg?itok=ipdUunRV")
+``` 
+]
+
+
+---
+
+
+
+
+## Malvaceae
+
+### Características
+
+.pull-left[
+- **Ciclo de Vida**: Anual, Perene
+
+- **Folhas**: seiva viscosa, alternada, geralmente com veios palmatosos, imples, pubescente
+
+- **Flores**: variam de pequenas a grandes, perfeitas, em forma de funil, 5 pétalas separadas
+
+- **Frutos**: Cápsulas
+
+- **Plantas**: cultivadas da família Malvaceae: algodão, quiabo, malva-rosa (usado para fazer marshmallow).
+ 
+- **Classe**: dicotiledôneas
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hibiscus2324hibiscus_.jpg/220px-Hibiscus2324hibiscus_.jpg")
+``` 
+]
+
+---
+
+## *Sida glaziovii*
+
+#### **Nome comum**: guanxuma branca
+
+.pull-left[
+
+**Ciclo de vida**: ereta ou subprostrada, ramificada
+
+**Folhas**: branco-lanuginosas em ambas faces
+
+**Caules**: fibroso, revestido por densa pubescência esbranquiçada
+
+**Reprodução**: Sementes
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://c1.staticflickr.com/8/7313/16562190165_13cd375484_n.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://static.wixstatic.com/media/3f0fe7_3321566df4f54c2eb8fd8882aabd8352.jpg/v1/fill/w_354,h_235,al_c,q_80,usm_0.66_1.00_0.01/3f0fe7_3321566df4f54c2eb8fd8882aabd8352.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("images/glaziovii_5.png")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("http://farm9.static.flickr.com/8603/16064020794_8acf313338.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=150, fig.align='center'}
+knitr::include_graphics("images/glaziovii.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("http://farm9.static.flickr.com/8576/16498764468_8421fcf2b0.jpg")
+``` 
+]
+
+---
+
+## *Sida glaziovii*
+
+#### **Nome comum**: guanxuma branca
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("images/graziovii_2.png")
+``` 
+
+---
+
+## *Sida rhombifolia*
+
+#### **Nome comum**: guanxuma 
+
+.pull-left[
+
+**Ciclo de vida**: anual ou bianual, herbácea
+
+**Sementes**: 
+
+**Folhas**: oblonga a lanceolada- glabro na parte superior e pubescente na parte inferior
+
+**Caules**: geralmente eretos ou ascendentes, pubescente
+
+**Flor**: Flores de amarelo claro a creme, axilares, solitárias
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://live.staticflickr.com/7184/6858277693_7b7a4826c8_b.jpg")
+``` 
+]
+
+
+---
+
+## *Sida rhombifolia*
+
+#### **Nome comum**: guanxuma 
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("images/rhombifolia_2.png")
+``` 
+
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("http://d2seqvvyy3b8p2.cloudfront.net/927cf0d0c1f8c87ba8820ef2aa6f1309.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://keyserver.lucidcentral.org/weeds/data/media/Images/sida_rhombifolia/sidarhombifolia32.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/rhombifolia_5.png")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("images/rhombifolia_3.png")
+```
+]
+
+
+---
+
+
+
+
+## Convolvulaceae
+
+### Características
+
+
+.pull-left[
+- **Ciclos de vida**: Anual, Perene
+
+- **Hastes**: Entrelaçamento, escalada, trepadeiras
+
+- **Folhas**: na maioria simples, alternadas, com lóbulos pinçados
+
+- **Inflorescência**: auxiliar, solitária
+
+- **Flores**: perfeitas, pequenas e discretas a grandes e vistosas
+
+- **Classe**: dicotiledôneas
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://cdn.britannica.com/42/137442-050-46DDCACD/Field-bindwind.jpg")
+``` 
+]
+
+---
+
+class: inverse
+
+## Brassicaceae
+
+### Características
+
+.pull-left[
+
+- **Ciclos de vida**: Anual (verão e inverno)
+
+- **Raízes**: pivotante
+
+- **Inflorescência**: racemos indeterminados com muitas flores
+
+- **Flores**: azul, vermelho, branco ou amarelo. Pequeno com 4 pétalas e 4 sépalas dispostas como uma cruz.
+
+- **Frutos**: silique ou silicle
+
+- **Reprodução**: semente, estoque de raízes
+
+- **Variedades cultivadas**: repolho, nabo, rabanete, crambe, canola
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b8/Barbarea_vulgaris_002.JPG")
+``` 
+]
+
+
+
+---
+
+## *Raphanus raphanistrum*
+
+#### Nome comum: nabo ou nabiça
+
+.pull-left[
+**Ciclo de vida**: 
+
+**Sementes**: 
+
+**Folhas**: 
+
+**Caules**: 
+
+**Flor**: 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://content.eol.org/data/media/00/1e/9b/8.6029390022.jpg")
+``` 
+]
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-COT-700.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://alchetron.com/cdn/raphanus-raphanistrum-0be31d0b-37f4-40f0-8a2e-1587d9a5516-resize-750.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-SEE-700.JPG")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/RAPRA-MAT-700.jpg")
+``` 
+]
+
+
+
+---
+
+## Malvaceae
+
+### Características
+
+.pull-left[
+- **Ciclo de Vida**: Anual, Perene
+
+- **Folhas**: seiva viscosa, alternada, geralmente com veios palmatosos, imples, pubescente
+
+- **Flores**: variam de pequenas a grandes, perfeitas, em forma de funil, 5 pétalas separadas
+
+- **Frutos**: Cápsulas
+
+- **Plantas**: cultivadas da família Malvaceae: algodão, quiabo, malva-rosa (usado para fazer marshmallow).
+ 
+- **Classe**: dicotiledôneas
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hibiscus2324hibiscus_.jpg/220px-Hibiscus2324hibiscus_.jpg")
+``` 
+]
+
+
+
+
+---
+
+
+## Cucurbitaceae
+
+### Características
+
+.pull-left[
+
+750-1000 espécies em todo o mundo - Principalmente regiões tropicais
+
+- **Ciclos de vida**: 
+
+- **Raízes**: 
+
+- **Inflorescência**: 
+
+- **Flores**: Principalmente trepadeiras
+
+- **Frutos**: 
+
+- **Reprodução**: 
+
+- **Variedades cultivadas**: pepinos, abóboras, melões, cabaças
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Luffa_operculata_01.JPG/253px-Luffa_operculata_01.JPG")
+``` 
+]
+
+
+
+
+---
+
+## Fabaceae
+
+### Características
+
+.pull-left[
+
+- Principalmente herbáceas, mas existem muitos arbustos e árvores
+
+- As **folhas** são estipuladas e quase sempre se alternam. Pode ser composto de forma pontual ou palmatosa ou simples.
+
+- A **fruta** é geralmente uma leguminosa
+
+- As **flores** geralmente estão em racemos, pontas ou cabeças
+
+- As **variedades cultivadas** incluem soja, amendoim, alfafa e ervilha
+]
+
+
+
+.pull-right[
+
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/58/Vicia_villosa_schote.jpeg")
+``` 
+]
+
+---
+
+## *Glycine max*
+
+#### Nome comum: soja voluntária
+
+.pull-left[
+
+- **Folha:** A primeira folha verdadeira é unifoliada e as demais são trifólios
+
+- **Cotilédones:** oblongo, oposto
+
+- **Caule:** ereto ou ascendente, pubescente, alternadamente ramificado
+
+- **Raiz:** pivotante
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("images/soy_03.png")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/soy_01.png")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/soy_02.png")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://dam.farmjournal.com/m/73beddb90231e1a/webimage-5712E6A3-2732-4AA7-AEBEE4FC1963E803.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://cropwatch.unl.edu/image/image_gallery/uuid%3D733c81c2-308e-45c8-a0bb-07ee75545b70%26groupId%3D1841%26t%3D1372797454178")
+``` 
+]
+
+
+---
+
+## Lamiaceae
+
+### Características
+
+.pull-left[
+
+- Caule quadrado
+
+- Folhas opostas ou enroladas
+
+- Muitas espécies aromáticas
+
+- Herbáceas
+]
+
+
+
+.pull-right[
+
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/5/58/Vicia_villosa_schote.jpeg")
+``` 
+]
+
+
+
+---
+
+## Chenopodiaceae
+
+### Características
+
+.pull-left[
+- Herbácea e arbôreas
+
+- **Ciclo**: Anuais e perenes
+
+- **Folhas**: simples, geralmente alternadas, inteiras a lobadas, glabras ou pubescentes
+
+- **Inflorescência**: racemo ou espiga
+
+- **Flores**: pequenas, geralmente de cor esverdeada
+
+- **Frutas**: algumas espécies têm massas vistosas de frutas
+
+- **Cultivado**: espinafre e beterraba
+
+
+]
+
+
+.pull-right[
+
+- 1300 espécies em todo o mundo
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://alchetron.com/cdn/chenopodiaceae-28ed2041-a3aa-4f61-b08a-d7f3b86849f-resize-750.jpg")
+``` 
+]
+
+---
+
+## *Chenopodium album*
+
+#### **Nome comum**: ançarinha-branca
+
+.pull-left[
+
+**Ciclo de vida**: anual ou bianual, herbácea
+
+**Sementes**: 
+
+**Folhas**: oblonga a lanceolada- glabro na parte superior e pubescente na parte inferior
+
+**Caules**: geralmente eretos ou ascendentes, pubescente
+
+**Flor**: Flores de amarelo claro a creme, axilares, solitárias
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://www.canr.msu.edu/pestid/uploads/images/Common-lambsquarters-plant.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/lambs_1.png")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/lambs_2.png")
+``` 
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/lambs_3.png")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/lambs_4.png")
+``` 
+]
+
+---
+
+
+## Apiaceae
+
+### Características
+
+.pull-left[
+
+- **Ciclo de vida**: principalmente bianual ou perene
+
+- **Aparência**: arbustos - geralmente aromáticos com hastes ocas; folhas de samambaia
+
+- **Folhas**: alternadamente, pinnately divididas
+
+- **Flores**: dispostas em umbelas; as flores são pequenas e geralmente radiais
+
+- **Frutos**: divididos ao meio, cada metade com uma semente
+
+- **Cultivado**: cenoura, salsa
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/8/86/AngelicaSylvestrisInflorescence.jpg")
+``` 
+
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://www.uwgb.edu/biodiversity/herbarium/invasive_species/conmac_leaf03gf600.jpg")
+``` 
+]
+
+
+
+---
+
+
+## Asclepiadaceae
+
+### Características
+
+.pull-left[
+
+Herbáceas, trepadeiras e arbustos principalmente perenes com seiva leitosa
+
+- **Sementes**: tufo de pelos sedosos
+
+- **Fruta**: folículos
+
+- **Flores**: pétalas perfeitas, muitas vezes carnudas
+
+- **Inflorescências**: geralmente umbelas
+
+- **Folhas**: simples, opostas ou voltas, inteiras
+
+- **Caules**: cheios de seiva leitosa
+
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://cdn.shopify.com/s/files/1/1351/6403/products/Calotropis_SQ_693_1024x1024.jpg?v=1469314555")
+``` 
+]
+
+
+---
+
+## Polygonaceae
+
+### Características
+
+.pull-left[
+
+- Herbáceas e trepadeiras herbáceas
+
+- **Ciclo de vida**: Anuais, bianuais e perenes
+
+- **Folhas**: alternativa, simples, inteira, basal ou caulina
+
+- **Flores**: perfeitas, imperfeitas ou funcionalmente unissexuais
+
+- **Frutas**: aquênio
+
+- Às vezes, estípulas das folhas embainham o caule, formando uma estrutura chamada "ocreia"
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/8/8f/Polygonum_persicaria_bgiu.jpg")
+``` 
+]
+
+---
+
+class: middle
+
+.pull-left[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/9/99/Ocreae_of_a_Persicaria_maculosa_2006-aug-10_Gothenburg_Sweden.jpg")
+``` 
+]
+
+.pull-right[
+**OCHREA**
+Bainhas de encontradas onde o pecíolo se liga ao caule
+]
+
+---
+
+## Plantaginaceae
+
+### Características
+
+
+.pull-left[
+- Herbáceas
+
+- **Ciclo de vida**: Anuários e perenes
+
+- **Folhas**: costelas geralmente basais, simples, longitudinais, sem estípulas
+
+- **Inflorescência**: denso, pontas de vários comprimentos
+
+- **Flores**: radiais, pequenas, carregadas em um caule sem folhas
+]
+
+
+
+
+
+.pull-right[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://www.weedalogue.com/virginiaplantain/vp_02.jpg")
+``` 
+]
+
+
+
+
+---
+
+## Portulacaceae
+
+### Características
+
+
+.pull-left[
+- Herbáceas ou raramente arbustos
+
+- **Ciclo de vida**: Anual ou perene
+
+- **Folhas**: inteiras, opostas, alternadas ou em espiral, geralmente carnudas
+
+- **Flores**: 2 sépalas, 3-18 pétalas, perfeitas
+
+- **Frutos**: cápsula, sementes de um a maio, geralmente pretas e brilhantes
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://www.fireflyforest.com/images/wildflowers/plants/Portulaca_olera_400.jpg")
+``` 
+]
+
+---
+
+## Solanaceae
+
+### Características
+
+Nenhuma característica única comum nessa família
+
+.pull-left[
+- **Folhas**: geralmente alternadas, simples, peludas, com odor característico, pecíolo, ovo ou formato triangular
+
+- **Inflorescência**: racemos ou umbels
+
+- **Flores**: perfeitas, em pequenos grupos, tipicamente branco ou rosa
+
+- **Frutas**: baga ou cápsula
+
+- **Cultivado**: tomate, batata, pimentão, berinjela, tabaco, pimentão, petúnias
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Nightshade.jpg")
+``` 
+]
+
