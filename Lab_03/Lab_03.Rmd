@@ -915,9 +915,38 @@ knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageData
 ]
 
 
+
 ---
 
+## Malvaceae
 
+### Características
+
+.pull-left[
+- **Ciclo de Vida**: Anual, Perene
+
+- **Folhas**: seiva viscosa, alternada, geralmente com veios palmatosos, imples, pubescente
+
+- **Flores**: variam de pequenas a grandes, perfeitas, em forma de funil, 5 pétalas separadas
+
+- **Frutos**: Cápsulas
+
+- **Plantas**: cultivadas da família Malvaceae: algodão, quiabo, malva-rosa (usado para fazer marshmallow).
+ 
+- **Classe**: dicotiledôneas
+]
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Hibiscus2324hibiscus_.jpg/220px-Hibiscus2324hibiscus_.jpg")
+``` 
+]
+
+
+
+
+---
 
 
 ## Cucurbitaceae
