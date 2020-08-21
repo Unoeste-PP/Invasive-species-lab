@@ -1,0 +1,25 @@
+---
+title: "Instruções para o Herbário"
+author: ""
+date: ""
+output:
+  pdf_document: default
+  html_document: default
+---
+
+
+
+
+- Identifique 20 plantas daninhas presentes no seu dia a dia (ex. lavoura, estradas, rua, ferrovia, casa etc)
+
+- Escreva a família, nome comum e nome científico de cada planta daninha
+
+- Descreva brevemente a característica da planta daninha e onde foi encontrada
+
+- Coloque 4 fotos de boa qualidade de cada planta daninha (adicione seu nome na foto para direitos autorais). Não use fotos da internet
+
+- Fotos podem ser de sementes, plântulas, plantas adultas (caule, folha, raiz)
+
+- Monte o herbário em um formato de apresentação PowerPoint
+
+- Salve em pdf
