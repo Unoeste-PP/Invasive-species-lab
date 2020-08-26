@@ -467,6 +467,8 @@ knitr::include_graphics("https://jerrycolebywilliams.files.wordpress.com/2012/12
 ``` 
 ]
 
+---
+
 
 class: inverse
 

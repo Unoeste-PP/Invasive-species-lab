@@ -279,13 +279,15 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/4/49/Hib
 
 .pull-left[
 
-**Ciclo de vida**: ereta ou subprostrada, ramificada
+**Ciclo de vida**: perene, ereta ou subprostrada, ramificada, subarbustiva
 
-**Folhas**: branco-lanuginosas em ambas faces
+**Folhas**: alternadas helicoidais, curto-pecioladas, providas de um par de estípulas lineares longas
 
-**Caules**: fibroso, revestido por densa pubescência esbranquiçada
+**Caules**: cilíndrico, verde ou de coloração ferrugínea, fibroso, revestido por densa pubescência esbranquiçada
 
 **Reprodução**: Sementes
+
+**Habitat**: lavouras anuais e perenes
 ]
 
 
@@ -341,13 +343,14 @@ knitr::include_graphics("images/graziovii_2.png")
 
 **Ciclo de vida**: anual ou bianual, herbácea
 
-**Sementes**: 
+**Folhas**: alternadas helicoidais, pecíolo curtíssimo, providas de um
+par de estípulas capiláceas
 
-**Folhas**: oblonga a lanceolada- glabro na parte superior e pubescente na parte inferior
-
-**Caules**: geralmente eretos ou ascendentes, pubescente
+**Caules**: cilíndrico, verde e recoberto por esparsa pilosidade nas partes jovens, avermelhado e glabro nas partes velhas da planta
 
 **Flor**: Flores de amarelo claro a creme, axilares, solitárias
+
+**Habitat**: áreas com lavouras anuais e perenes e áreas olerícolas
 ]
 
 
@@ -362,7 +365,7 @@ knitr::include_graphics("https://live.staticflickr.com/7184/6858277693_7b7a4826c
 
 ## *Sida rhombifolia*
 
-#### **Nome comum**: guanxuma 
+#### **Nome comum**: guanxuma, guaxuma-preta
 
 ```{r echo=FALSE, out.width=500, fig.align='center'}
 knitr::include_graphics("images/rhombifolia_2.png")
@@ -390,6 +393,7 @@ knitr::include_graphics("images/rhombifolia_5.png")
 knitr::include_graphics("images/rhombifolia_3.png")
 ```
 ]
+
 
 
 ---
@@ -685,20 +689,21 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/b/b8/Bar
 .pull-left[
 **Ciclo de vida**: anual, bianual
 
-**Sementes**: 
+**Frutos**: tipo síliqua contendo numerosas sementes separadas por meio de constrições
 
-**Folhas**: 
+**Folhas**: alternadas, pecioladas e com o limbo profundamente recortado até atingir ou não a nervura central, formando de 3 a 8 lobos
 
-**Caules**: pubescentes
+**Caules**: caule cilíndrico, verde, ceríceo, muito ramificado e enfolhado na base
 
-**Flor**: 
+**Flor**: crucíferas - arranjo das 4 pétalas tem a disposição de uma cruz
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
+```{r echo=FALSE, out.width=210, fig.align='center'}
 knitr::include_graphics("https://content.eol.org/data/media/00/1e/9b/8.6029390022.jpg")
 ``` 
 
+**Habitat**: áreas cultivadas, margens de rodovias, terras abandonadas, terrenos baldios, entre outros locais
 ]
 ---
 
@@ -740,13 +745,14 @@ knitr::include_graphics("images/raphanistrum_5.png")
 .pull-left[
 **Ciclo de vida**: anual, bianual
 
-**Sementes**: 
+**Fruto**: síliqua cilíndrica, pouco estrangulamento entre os alojamentos das sementes e afilado em direção ao ápice, simulando um cone
 
-**Folhas**: 
+**Folhas**: alternadas,
+pecioladas e com o limbo profundamente recortado em até 9 segmentos, os quais chegam à nervura central ou próximo, simulando folha composta
 
-**Caules**: pubescentes
+**Caules**: cilíndrico, bastante ramificado, ceroso e com esparsa pilosidade
 
-**Flor**: 
+**Flor**: crucíferas - arranjo das 4 pétalas tem a disposição de uma cruz
 ]
 
 .pull-right[
@@ -754,6 +760,7 @@ knitr::include_graphics("images/raphanistrum_5.png")
 knitr::include_graphics("images/sativus_3.png")
 ``` 
 
+**Habitat**: Regiões Sudeste e Sul do Brasil, vegetando em áreas agrícolas
 
 ]
 ---
@@ -851,6 +858,56 @@ knitr::include_graphics("https://dam.farmjournal.com/m/73beddb90231e1a/webimage-
 ```{r echo=FALSE, out.width=400, fig.align='center'}
 knitr::include_graphics("https://cropwatch.unl.edu/image/image_gallery/uuid%3D733c81c2-308e-45c8-a0bb-07ee75545b70%26groupId%3D1841%26t%3D1372797454178")
 ```
+]
+
+---
+
+## *Senna obtusifolia*
+
+#### Nome comum: fedegoso
+
+.pull-left[
+
+- **Ciclo de vida**: Espécie subarbustiva anual
+
+- **Folha:** alternadas helicoidais, compostas penadas, estipuladas e com bainha 
+
+- **Cotilédones:** oblongo, oposto
+
+- **Caule:** verde, levemente quadrático e bastante ramificado
+
+- **Fruto:** legume deiscente, cilíndrico e encurvado, contendo numerosas sementes esverdeadas ou acastanhadas
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/3/34/Senna_obtusifolia_%286344749288%29.jpg")
+``` 
+
+**Habitat**: lavouras anuais e perenes, áreas ocupadas com fruticultura, pastagens, terrenos baldios e orlas de
+fragmentos florestais
+]
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://calphotos.berkeley.edu/imgs/512x768/0000_0000/1210/0610.jpeg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sennaobtusifoliaseeds.jpg/1280px-Sennaobtusifoliaseeds.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://bugwoodcloud.org/images/768x512/5544478.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://garden.org/pics/2012-09-29/plantladylin/a33b15.jpg")
+```
+]
 
 
 ---
@@ -897,9 +954,7 @@ knitr::include_graphics("https://alchetron.com/cdn/chenopodiaceae-28ed2041-a3aa-
 
 **Ciclo de vida**: anual ou bianual, herbácea
 
-**Sementes**: 
-
-**Folhas**: oblonga a lanceolada- glabro na parte superior e pubescente na parte inferior
+**Folhas**: oblonga a lanceolada- glabro na parte superior e pubescente na parte inferior - aparência de de folha congelada na parte superior
 
 **Caules**: geralmente eretos ou ascendentes, pubescente
 
@@ -911,6 +966,11 @@ knitr::include_graphics("https://alchetron.com/cdn/chenopodiaceae-28ed2041-a3aa-
 ```{r echo=FALSE, out.width=500, fig.align='center'}
 knitr::include_graphics("https://www.canr.msu.edu/pestid/uploads/images/Common-lambsquarters-plant.jpg")
 ``` 
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/764optimized.jpg")
+``` 
+
 ]
 
 ---
@@ -935,6 +995,3 @@ knitr::include_graphics("images/lambs_3.png")
 knitr::include_graphics("images/lambs_4.png")
 ``` 
 ]
-
-
-
