@@ -36,465 +36,380 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 ```
 
 
-## Poaceae
+class: inverse
+
+## Asclepiadaceae
 
 ### Características
 
 .pull-left[
 
-- **Flores:** flores diminutas dispostas em espiguetas
+Herbáceas, trepadeiras e arbustos principalmente perenes com seiva leitosa
 
-- **Folhas:** em forma de tira, venação alternada, paralela, folhas; bainha e lâmina
+- **Sementes**: tufo de pelos sedosos
 
-- **Caules:** geralmente ocos (colmo), sólidos nos nós
+- **Fruta**: folículos
 
-- **Cultivado:** milho, cevada, sorgo em grão, aveia, trigo, centeio, milheto
+- **Flores**: pétalas perfeitas, muitas vezes carnudas
+
+- **Inflorescências**: geralmente umbelas
+
+- **Folhas**: simples, opostas ou voltas, inteiras
+
+
+
+
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("images/stem.png")
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://cdn.shopify.com/s/files/1/1351/6403/products/Calotropis_SQ_693_1024x1024.jpg?v=1469314555")
 ``` 
 
-- **Variedades cultivadas**: pepinos, abóboras, melões, cabaças
+- **Caules**: cheios de seiva leitosa
+]
+
+
+
+---
+
+## Solanaceae
+
+### Características
+
+Nenhuma característica única comum nessa família
+
+.pull-left[
+- **Folhas**: geralmente alternadas, simples, peludas, com odor característico, pecíolo, ovo ou formato triangular
+
+- **Inflorescência**: racemos ou umbels
+
+- **Flores**: perfeitas, em pequenos grupos, tipicamente branco ou rosa
+
+- **Frutas**: baga ou cápsula
+
+- **Cultivado**: tomate, batata, pimentão, berinjela, tabaco, pimentão, petúnias
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Nightshade.jpg")
+``` 
 ]
 
 ---
 
-## ID de gramíneas: partes
 
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/grass_anatomy.png")
+
+## *Datura stramonium*
+
+#### Nome comum: quinquilho, figueira-do-inferno
+
+.pull-left[
+
+- **ciclo de vida:** anual, herbácea, cheiro forte quando macerada, 
+
+- **Folha:** alternadas, ovata-pontas pontiagudas, margens dentado-sinuado, glabro, macia
+
+- **Cotilédones:** grosso, sem pêlos, longo e de contorno linear
+
+- **Caule:** ereto, ramificado na parte superior, verde-roxo 
+
+- Contém alto nível de alcalóides (venenono)
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/datura_2.png")
 ``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("http://ipm.ucanr.edu/PMG/IMAGES/D/W-SO-DSTR-SG.003.jpg")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("http://ipm.ucanr.edu/PMG/IMAGES/D/W-SO-DSTR-FR.001.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/datura_1.png")
+``` 
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("http://ipm.ucanr.edu/PMG/IMAGES/D/W-SO-DSTR-SD.001.jpg")
+``` 
+]
+
+
 
 
 
 ---
 
-## ID de gramíneas: aurículas
 
+## *Nicandra physalodes*
+
+#### Nome comum: joá-de-capote
+
+.pull-left[
+
+- **ciclo de vida:** subarbustiva anual
+
+- **Folha:** alternadas helicoidais, simples, pecioladas e com o limbo muito desenvolvido e de forma ovalada, margens muito irregularmente recortadas ou serreadas
+
+- **Flores:**  isoladas, axilares, pedunculadas, cálice
+com 5 sépalas soldadas que continuam o crescimento para isolar o fruto em desenvolvimento
+
+- **Caule:** verde, pouco tetrágono, canaliculado, ramos com tendência a ramificação dicotômica
+
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/nicandra_3.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/nicandra_5.png")
+```
+]
+
+---
+
+.pull-left[
 ```{r echo=FALSE, out.width=200, fig.align='center'}
-knitr::include_graphics("images/auricles.png")
+knitr::include_graphics("images/nicandra.jpg")
 ``` 
 
-
-.pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/no_auricles.png")
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("images/nicandra_1.png")
 ``` 
-Aveia (*Avena sativa*) - sem aurículas
 ]
-
 
 .pull-right[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/auricles_2.png")
-``` 
-Cevada (*Hordeum vulgare*) - aurículas
-]
-
-
-
----
-
-
-## ID de gramíneas: aurículas
-
-
-
-.pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/no_auricles_2.png")
-``` 
-Aveia selvagem (*Avena fatua*) - sem aurículas
-]
-
-
-.pull-right[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/auricles_3.png")
-``` 
-Grama-francesa (*Elymus repens*) - aurículas
-]
-
-
----
-
-
-## ID de gramíneas: lígulas
-
-
-```{r echo=FALSE, out.width=600, fig.align='center'}
-knitr::include_graphics("images/ligules.png")
-``` 
-
-
----
-
-## ID de gramíneas: lígulas
-
-```{r echo=FALSE, out.width=600, fig.align='center'}
-knitr::include_graphics("images/ligules.png")
-``` 
-
----
-
-## ID de gramíneas: lígulas
-
-.pull-left[
 ```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://www.backyardnature.net/n/14/140831pp.jpg")
+knitr::include_graphics("images/nicandra_4.png")
 ``` 
 
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2222optimized.jpg")
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/nicandra_2.png")
 ``` 
 ]
 
-.pull-right[
-```{r echo=FALSE, out.width=600, fig.align='center'}
-knitr::include_graphics("https://content.ces.ncsu.edu/media/images/large-crabgrass-11258-ligule2.jpg")
-``` 
-
-```{r echo=FALSE, out.width=600, fig.align='center'}
-knitr::include_graphics("https://www.canr.msu.edu/pestid/uploads/images/Fall-panicum-ligule.jpg")
-``` 
-
-]
-
-
-
 ---
 
 
-## ID de gramíneas: torção da lâmina
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/twist.png")
-``` 
 
 
 
----
 
-## Dúvidas em morfologia de gramíneas?
+## *Solanum americanum*
 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://media.giphy.com/media/24RWVQlg1oRri/giphy.gif")
-``` 
-
-
----
-
-## *Digitaria insularis*
-
-#### Nome comum: capim amargoso
+#### Nome comum: maria-pretinha
 
 .pull-left[
 
-- **Ciclo de vida:** perene
+- **ciclo de vida:** anual, herbácea, glabra
 
-- **Folha:** 
+- **Folha:** alternadas com base estreitada continuando pelo pecíolo, limbo de
+forma ovalada ou lanceolada, com margens onduladas irregularmente
 
-- **Lígula:** 
+- **Caule:** cilíndrico, às vezes canaliculado, verde, ramificado desde a base e apresentando concaulescência de gemas
 
+- **Habitat:** áreas agrícolas ocupadas com lavouras anuais e perenes
 
+]
 
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Solanum_americanum81.jpg")
+``` 
+- Pode ser reconhecida em campo pelas flores estreladas de coloração branca e pelas inflorescências umbeliformes, localizadas fora das axilas das folhas, e ainda pela coloração dos fruto
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Solanum_americanum84.jpg")
+``` 
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("images/pretinha_1.png")
+``` 
 ]
 
 .pull-right[
 ```{r echo=FALSE, out.width=200, fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cucumis_anguria.JPG/1200px-Cucumis_anguria.JPG")
+knitr::include_graphics("images/pretinha.jpg")
 ``` 
 
-- **Habitat:** 
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("images/pretinha_2.png")
+``` 
+]
 
+
+---
+
+class: inverse
+
+## Caryophyllaceae
+
+### Características
+
+
+
+.pull-left[
+- **Folhas**: 
+
+- **Inflorescência**: 
+
+- **Flores**: 
+
+- **Frutas**: 
+
+- **Cultivado**: 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Nightshade.jpg")
+``` 
+]
+
+---
+
+
+
+## *Stellaria media*
+
+#### Nome comum: esperguta
+
+.pull-left[
+
+- **ciclo de vida:** anual, herbácea, cheiro forte quando macerada, 
+
+- **Folha:** alternadas, ovata-pontas pontiagudas, margens dentado-sinuado, glabro, macia
+
+- **Cotilédones:** grosso, sem pêlos, longo e de contorno linear
+
+- **Caule:** ereto, ramificado na parte superior, verde-roxo 
+
+- Contém alto nível de alcalóides (venenono)
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://ipcm.wisc.edu/wp-content/uploads/sites/54/2017/05/Chickweeds2017.jpg")
+``` 
 ]
 
 ---
 
 .pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://live.staticflickr.com/1745/27699801227_848f1fb409_b.jpg")
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/STEME-COT-700.jpg")
 ``` 
 
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://plants.usda.gov/gallery/standard/cuan_001_shp.jpg")
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/common-chickweed-11491-p1030758.jpg")
 ``` 
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/c/c1/Cucumis_anguria%2C_Flower.jpg")
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/common-chickweed-11491-flowers.jpg")
 ``` 
 
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://i.pinimg.com/474x/1b/7a/b3/1b7ab383b60109e5e64159ec71ea48f1.jpg")
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/0/05/Kaldari_Stellaria_media_01.jpg")
 ``` 
 ]
 
 ---
 
-## *Digitaria sanguinalis*
+class: inverse
 
-#### Nome comum: capim colchão
+## Plantaginaceae
+
+### Características
+
+
+.pull-left[
+- Herbáceas
+
+- **Ciclo de vida**: Anuais e perenes
+
+- **Folhas**: costelas geralmente basais, simples, longitudinais, sem estípulas
+
+- **Inflorescência**: denso, pontas de vários comprimentos
+
+- **Flores**: radiais, pequenas, carregadas em um caule sem folhas
+]
+
+
+
+
+
+.pull-right[
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://www.weedalogue.com/virginiaplantain/vp_02.jpg")
+``` 
+]
+
+
+---
+
+
+## *Plantago tomentosa*
+
+#### Nome comum: tanchagem, plantagem
 
 .pull-left[
 
-- **Ciclo de vida**: Anual, prostrada
+- **ciclo de vida:** anual, herbácea - densamente pubescente
 
-- **Lâmina:** desamente pubescente - (90 graus)
+- **Folha:** roseta basal, nervura impressas
 
-- **Lígula:** 1-2 cm, membranosa
+- **Cotilédones:** 
 
-- **Bainha:** desamente pubescente - (90 graus)
+- **Caule:** acaule
 
-- **Folha:** com margem irregular
-
-- **Plântulas:** Bainhas e lâminas geralmente densamente pubescente, com uma lígula membranosa denteada
 
 ]
 
 .pull-right[
 ```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Eleusine_indica83.jpg")
-``` 
-
-
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2038optimized.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2042optimized.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2043optimized.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2046optimized.jpg")
-``` 
-]
-
-
-
----
-
-## *Sorghum halepense*
-
-#### Nome comum: capim massambará
-
-.pull-left[
-
-- **Lâmina:** Linear, plana, nervura central proeminente (cor mais clara normalmente branca), geralmente sem pelos.
-
-- **Lígula:** Membranosa, truncada, erose (ou seja, irregularmente entalhada na ponta ou margem; aparentando ser roída ou erodida).
-
-- **Bainha:** aberta, redonda.
-
-- **Rizomas:** rasteiros e grossos.
-
-- **Habitat:** 
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2060optimized.jpg")
-``` 
-
-
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2061optimized.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2063optimized.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2059optimized.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://secure.caes.uga.edu/extension/publications/files/html/B1513/images/mceclip3.png")
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Plantago_tomentosa85.jpg")
 ``` 
 ]
 
 ---
 
-
-## *Lolium multiflorum*
-
-#### Nome comum: azevem
-
 .pull-left[
-
-- **Lâmina:** 
-
-- **Lígula:** 
-
-- **Bainha:** 
-
-- **Rizomas:** 
-
-- **Habitat:** 
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Lolium%20multiflorum1.jpg")
-``` 
-
-
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://soilcropandmore.info/crops/Grasses/Annual_ryegrass/Lolium_multiflorum_ligule.jpg")
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Plantago_tomentosa81.jpg")
 ``` 
 
 ```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://content.ces.ncsu.edu/media/images/annual-ryegrass-auricle-2.jpg")
+knitr::include_graphics("https://sites.unicentro.br/wp/manejoflorestal/files/2012/11/1-Plantago-tomentosa-Lam.jpg")
 ``` 
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/LOLMU-EAR-700.JPG")
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Plantago_tomentosa88.jpg")
 ``` 
 
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageDatabase/LOLMU-SEE-700.JPG")
-``` 
-]
-
----
-
-
-
-## *Eleusine indica*
-
-#### Nome comum: capim pé-de-galinha
-
-.pull-left[
-
-- **Lâmina:** 
-
-- **Lígula:** 
-
-- **Bainha:** 
-
-- **Rizomas:** 
-
-- **Habitat:** 
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2013/07/IMG_3170.JPG")
-``` 
-
-
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://soilcropandmore.info/crops/Grasses/Goosegrass/Eleusine_indica_leaf_base.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2013/07/DSC_4172.JPG")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2013/07/IMG_1576.JPG")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://content.ces.ncsu.edu/media/images/goosegrass-11254-ligule.jpg")
-``` 
-]
-
----
-
-
-
-
-## *Chloris elata*
-
-#### Nome comum: capim branco
-
-.pull-left[
-
-- **Lâmina:** 
-
-- **Lígula:** 
-
-- **Bainha:** 
-
-- **Rizomas:** 
-
-- **Habitat:** 
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://live.staticflickr.com/767/32496352856_3b68892c9e_b.jpg")
-``` 
-
-
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2061optimized.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2063optimized.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2059optimized.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("http://www.weedscience.org/images/weedid/316.jpg")
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Plantago_tomentosa83.jpg")
 ``` 
 ]
