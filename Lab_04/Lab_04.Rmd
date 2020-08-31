@@ -320,7 +320,7 @@ knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/0/01/Leo
 ``` 
 
 ```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/Leonotis_1.png")
+knitr::include_graphics("http://luirig.altervista.org/cpm/albums/fnam08/fnam3668.jpg")
 ``` 
 ]
 
@@ -330,7 +330,7 @@ knitr::include_graphics("http://luirig.altervista.org/cpm/albums/bot-hawaii18/08
 ``` 
 
 ```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/Leonotis_3.png")
+knitr::include_graphics("http://luirig.altervista.org/flora/maps/jpgcname.php?recn=157368&pid=119782&title=Mehaziki")
 ``` 
 ]
 
@@ -425,39 +425,6 @@ knitr::include_graphics("https://www.illinoiswildflowers.info/weeds/photos/ps_he
 ```{r echo=FALSE, out.width=500, fig.align='center'}
 knitr::include_graphics("https://imageproxy.themaven.net//https%3A%2F%2Fwww.history.com%2F.image%2FMTU3ODc5MDg2NDMzNTEwNzI5%2Fdeath-of-socrates.jpg")
 ``` 
-
-
----
-
-
-## Asclepiadaceae
-
-### Características
-
-.pull-left[
-
-Herbáceas, trepadeiras e arbustos principalmente perenes com seiva leitosa
-
-- **Sementes**: tufo de pelos sedosos
-
-- **Fruta**: folículos
-
-- **Flores**: pétalas perfeitas, muitas vezes carnudas
-
-- **Inflorescências**: geralmente umbelas
-
-- **Folhas**: simples, opostas ou voltas, inteiras
-
-- **Caules**: cheios de seiva leitosa
-
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://cdn.shopify.com/s/files/1/1351/6403/products/Calotropis_SQ_693_1024x1024.jpg?v=1469314555")
-``` 
-]
 
 
 ---
@@ -677,37 +644,6 @@ knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/248
 ``` 
 ]
 
----
-
-## Plantaginaceae
-
-### Características
-
-
-.pull-left[
-- Herbáceas
-
-- **Ciclo de vida**: Anuários e perenes
-
-- **Folhas**: costelas geralmente basais, simples, longitudinais, sem estípulas
-
-- **Inflorescência**: denso, pontas de vários comprimentos
-
-- **Flores**: radiais, pequenas, carregadas em um caule sem folhas
-]
-
-
-
-
-
-.pull-right[
-```{r echo=FALSE, out.width=350, fig.align='center'}
-knitr::include_graphics("https://www.weedalogue.com/virginiaplantain/vp_02.jpg")
-``` 
-]
-
-
-
 
 ---
 
@@ -782,224 +718,6 @@ knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Portulaca_
 ``` 
 ]
 
----
 
-## Rubiaceae
-
-### Características
-
-
-.pull-left[
-- Trata-se de uma das maiores famílias das dicotiledôneas no Brasil
-
-- **Ciclo de vida**: 
-
-- **Folhas**: sempre opostas e com as estípulas localizadas entre os pecíolos
-
-- **Flores**: apresentam perianto constituído por 4 ou 5 sépalas e a corola com 4 a 8 pétalas, androceu com estames em número igual ao das pétalas e gineceu pluricarpelar
-
-- **Plantas cultivadas:** café
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://pbs.twimg.com/media/EagDUEmXsAAvvhP?format=jpg&name=large")
-``` 
-]
-
----
-
-## *Diodella teres*
-
-#### Nome comum: mata pasto
-
-.pull-left[
-
-- **ciclo de vida:** herbácea anual
-
-- **Folha:** opostas, pubescentes
-
-- **Caule:** ascendente, ramificado, angulado, áspero-pubescente
-
-- **Reprodução:** sementes
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=200, fig.align='center'}
-knitr::include_graphics("images/diodia_2.jpg")
-``` 
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=400, fig.align='center'}
-knitr::include_graphics("images/diodia.png")
-``` 
-
-```{r echo=FALSE, out.width=400, fig.align='center'}
-knitr::include_graphics("https://ncwildflower.org/images/plants/Diodia_teres,_Poorjoe,_Wilmington_2012_August_20_003_web_resized.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://ncwildflower.org/images/plants/Diodia_teres_flower_close-up_Wilmington_2012_August_20_003_resized.jpg")
-``` 
-
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://ncwildflower.org/images/plants/Diodia_teres_flower_close-up_web_Wilmington_2012_late_August_001_resized.jpg")
-``` 
-]
-
-
-
-
-
-
----
-
-## *Richardia brasiliensis*
-
-#### Nome comum: poaia-branca
-
-.pull-left[
-
-- **ciclo de vida:** anual, herbácea, prostrada
-
-- **Folha:** opostas cruzadas, com pecíolo muito curto ou ausente
-
-- **Caule:** muito ramificado, cilíndrico ou quadrangular, verde ou com forte pigmentação acastanhada, revestido por um indumento de pelos brancos
-
-- **Flores:** Flores desprovidas de pedúnculo, cálice com 5 a 6 sépalas soldadas
-
-- **Propagação:** sementes
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("images/poaia-branca.png")
-``` 
-
-- **Habitat**: cultivos perenes 
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("images/poaia_1.png")
-``` 
-
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Richardia%20brasiliensis5.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("images/poaia_3.png")
-``` 
-
-```{r echo=FALSE, out.width=200, fig.align='center'}
-knitr::include_graphics("images/poaia_4.jpg")
-``` 
-]
-
----
-
-## *Spermacoce latifolia*
-
-#### Nome comum: erva-quente
-
-.pull-left[
-
-- **ciclo de vida:** anual, herbácea, prostrada ou ascendente
-
-- **Folha:** nervuras impressas
-
-- **Cotilédones:** 
-
-- **Caule:** tetragonal com ângulos rígido-pubescentes
-
-- **Raiz:** 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("images/erva-quente_2.png")
-``` 
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("images/erva-quente.jpg")
-``` 
-
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Spermacoce_latifolia85.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Spermacoce_latifolia81.jpg")
-``` 
-
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Spermacoce_latifolia88.jpg")
-``` 
-]
-
-
----
-
-## *Spermacoce verticillata*
-
-#### Nome comum: vassoura-de-botão
-
-.pull-left[
-
-- **ciclo de vida:** herbácea perene
-
-- **Folha:** simples, desprovidas de pecíolos, dispostas em forma de verticílios ao longo dos nós. Limbo linear-lanceolado com uma nervura bem acentuada
-
-- **Caule:** ramificado na base, quadrático nas partes jovens, revestido por indumento de pelos brancos e com nós e entrenós bem definidos
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("http://phytoimages.siu.edu/users/paraman1/1_7_08_2/Horiz27/34_05.jpg")
-``` 
-
-- Pode ser identificada em campo por meio das folhas dispostas em verticílio, com o limbo linear-lanceolado, e pelo último glomérulo assentado sobre brácteas pendentes
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=200, fig.align='center'}
-knitr::include_graphics("http://www.conabio.gob.mx/malezasdemexico/rubiaceae/borreria-verticillata/imagenes/borreria-verticillata-tallo-y-hojas.jpg")
-``` 
-
-```{r echo=FALSE, out.width=200, fig.align='center'}
-knitr::include_graphics("http://www.conabio.gob.mx/malezasdemexico/rubiaceae/borreria-verticillata/imagenes/borreria-verticillata-detalle3.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=400, fig.align='center'}
-knitr::include_graphics("http://www.conabio.gob.mx/malezasdemexico/rubiaceae/borreria-verticillata/imagenes/borreria-verticillata-hojas-haz.jpg")
-``` 
-
-```{r echo=FALSE, out.width=400, fig.align='center'}
-knitr::include_graphics("http://www.conabio.gob.mx/malezasdemexico/rubiaceae/borreria-verticillata/imagenes/borreria-verticillata-hojas2.jpg")
-``` 
-]
 
 

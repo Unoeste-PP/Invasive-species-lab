@@ -1,6 +1,6 @@
 ---
 title: "Biologia e Controle de Plantas Daninhas"
-subtitle: "Lab 5"
+subtitle: "Lab 6"
 author: "Maxwel Coura Oliveira🌱<br/>Department de Agronomia<br/>Universidade do Oeste Paulista"
 date: "<table style=\"border-style:none;padding-top:30px;\" class=\".table\">
   <tr>
@@ -36,6 +36,9 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 ```
 
 
+class: inverse
+
+
 ## Poaceae
 
 ### Características
@@ -56,7 +59,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 knitr::include_graphics("images/stem.png")
 ``` 
 
-- **Variedades cultivadas**: pepinos, abóboras, melões, cabaças
+
 ]
 
 ---
@@ -184,57 +187,8 @@ knitr::include_graphics("images/twist.png")
 knitr::include_graphics("https://media.giphy.com/media/24RWVQlg1oRri/giphy.gif")
 ``` 
 
-
 ---
 
-## *Digitaria insularis*
-
-#### Nome comum: capim amargoso
-
-.pull-left[
-
-- **Ciclo de vida:** perene
-
-- **Folha:** 
-
-- **Lígula:** 
-
-
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=200, fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cucumis_anguria.JPG/1200px-Cucumis_anguria.JPG")
-``` 
-
-- **Habitat:** 
-
-]
-
----
-
-.pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://live.staticflickr.com/1745/27699801227_848f1fb409_b.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://plants.usda.gov/gallery/standard/cuan_001_shp.jpg")
-``` 
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/c/c1/Cucumis_anguria%2C_Flower.jpg")
-``` 
-
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://i.pinimg.com/474x/1b/7a/b3/1b7ab383b60109e5e64159ec71ea48f1.jpg")
-``` 
-]
-
----
 
 ## *Cenchrus echinatus*
 
@@ -242,17 +196,19 @@ knitr::include_graphics("https://i.pinimg.com/474x/1b/7a/b3/1b7ab383b60109e5e641
 
 .pull-left[
 
-- **Ciclo de vida**: Anual, herbácea
+- **Ciclo de vida**: anual - ereta/prostrada
 
 - **Lâmina:** 
 
-- **Lígula:** 
+- **Bainha:** folhas abertas
 
-- **Bainha:** 
+- **Lígula:** franja de pelos
 
-- **Folha:** 
+- **Caules:** verdes com tonalidade marrom
 
-- **Espiga:** espigueta espinhenta
+- **Folha:** planas, macias a levemente pubescentes
+
+- **Inflorescência:** espigueta espinhenta
 
 ]
 
@@ -283,15 +239,12 @@ knitr::include_graphics("https://www.alabamaplants.com/Grasses/Cenchrus_echinatu
 ``` 
 
 ```{r echo=FALSE, out.width=220, fig.align='center'}
-knitr::include_graphics("https://lh3.googleusercontent.com/proxy/iJgYko6zqX9r0nv0-vcPfM18LjlA_zk7_BH2XMwz6FP8m2mHYD-K5s1DmlNE0e-27zu4zKHXKAQDzYN3vL5HUZ4e5AO-8KWQVAWVxCUWSQU0SRNk8Dtg0oTcd7KC_4BgdF3VwSJZEq7DIgdwkYwYNBcy")
+knitr::include_graphics("https://lh3.googleusercontent.com/proxy/j2DpkPvgSUMAvWfj778WRAdoO-ZVkb0WWP_MwmiYY4smPRcGOwJUBaxigbMAk-cr-u5tFXMmpeaDgaChv9kasrruLC7uUD4prp-IDTcq-XHycI57HWqzMi-gpfQoSMXTJ3RNYjwHqd9M9AV4F5k5mARv")
 ``` 
 ]
 
 
-
 ---
-
-
 
 
 ## *Cynodon dactylon*
@@ -347,6 +300,70 @@ knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/223
 
 
 ]
+
+
+
+
+---
+
+## *Digitaria insularis*
+
+#### Nome comum: capim amargoso
+
+.pull-left[
+
+- **Ciclo de vida:** perene - ereta
+
+- **Folha:** glabras - com até 40 cm - 15 mm
+
+- **Lígula:** 3-4 cm
+
+- **Aurícolas:** ausentes
+
+- **Bainha:** pubescente - membranosa
+
+- **Inflorescência:** panícula
+
+- **Reprodução:** Sementes, rizoma - rizomas são extremamente curtos e inchados 
+
+- Nativa das Américas - incluindo Brasil
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("images/amargoso_5.png")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("images/amargoso_4.png")
+``` 
+- **Habitat:** 
+
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=600, fig.align='center'}
+knitr::include_graphics("images/amargoso_1.png")
+``` 
+
+```{r echo=FALSE, out.width=600, fig.align='center'}
+knitr::include_graphics("images/amargoso_2.png")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=600, fig.align='center'}
+knitr::include_graphics("images/amargoso_3.png")
+``` 
+
+```{r echo=FALSE, out.width=600, fig.align='center'}
+knitr::include_graphics("images/amargoso_6.png")
+``` 
+]
+
 
 
 
@@ -587,21 +604,21 @@ knitr::include_graphics("https://secure.caes.uga.edu/extension/publications/file
 .pull-left[
 - **Ciclo de vida:** anual ou bianual, herbácea
 
-- **Folha:** 
+- **Folha:** verde a verde escuro, sem pêlos, plana, superfície superior uniformemente nervurada, superfície inferior lisa e brilhante
 
-- **Lígula:** 
+- **Lígula:** branca, translúcida, mais curto do que largo
 
-- **Bainha:** 
+- **Aurículas:** pequena e curta
 
-- **Rizomas:** 
+- **Habitat:** Clima temperado/frio
 
-- **Habitat:** 
+- Nativa do sul da Europa
 
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=250, fig.align='center'}
-knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Lolium%20multiflorum1.jpg")
+```{r echo=FALSE, out.width=450, fig.align='center'}
+knitr::include_graphics("https://aggieturf.tamu.edu/wp-content/uploads/2015/04/ARG_2.jpg")
 ``` 
 
 
@@ -640,21 +657,26 @@ knitr::include_graphics("https://plantevaernonline.dlbr.dk/cp/graphics/ImageData
 
 .pull-left[
 
-- **Lâmina:** 
+- **Ciclo de vida:** anual - prostrada
 
-- **Lígula:** 
+- **Folha:** glabras ou levemente pubescentes
 
-- **Bainha:** 
+- **Lígula:** pequena e membranosa
 
-- **Rizomas:** 
+- **Bainha:** são achatados, lisos e mesmo em plântulas, muitas vezes são distintamente brancos a prateados na base
 
-- **Habitat:** 
+- **Inflorescências:** 2-13 espigas 
+
 
 ]
 
 .pull-right[
 ```{r echo=FALSE, out.width=300, fig.align='center'}
 knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2013/07/IMG_3170.JPG")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2092optimized.jpg")
 ``` 
 
 
@@ -688,21 +710,24 @@ knitr::include_graphics("https://content.ces.ncsu.edu/media/images/goosegrass-11
 
 
 
-## *Chloris elata*
+## *Chloris elata* ou *Chloris polydactyla*
 
 #### Nome comum: capim branco
 
 .pull-left[
 
-- **Lâmina:** 
+
+- **Ciclo de vida:** perene
 
 - **Lígula:** 
 
-- **Bainha:** 
+- **Caule:** grablo
 
-- **Rizomas:** 
+- **Inflorescência:** verticílio de espigas
 
-- **Habitat:** 
+- **Propagação:** sementes e rizomas
+
+- **Habitat:** lavouras, estradas, pastagens e em pomares
 
 ]
 
@@ -718,22 +743,22 @@ knitr::include_graphics("https://live.staticflickr.com/767/32496352856_3b68892c9
 ---
 
 .pull-left[
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2061optimized.jpg")
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Chloris%20polydactyla4.jpg")
 ``` 
 
-```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2063optimized.jpg")
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Chloris%20polydactyla2.jpg")
 ``` 
 ]
 
 .pull-right[
 ```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2059optimized.jpg")
+knitr::include_graphics("https://plants.usda.gov/gallery/standard/chpo10_002_shp.jpg")
 ``` 
 
 ```{r echo=FALSE, out.width=500, fig.align='center'}
-knitr::include_graphics("http://www.weedscience.org/images/weedid/316.jpg")
+knitr::include_graphics("https://plants.usda.gov/gallery/standard/chpo10_003_shp.jpg")
 ``` 
 ]
 
@@ -748,7 +773,7 @@ knitr::include_graphics("http://www.weedscience.org/images/weedid/316.jpg")
 
 .pull-left[
 
-- **Lâmina:** 
+- **Ciclo de vida:** perene - decumbente
 
 - **Folha:** Pubescente
 
@@ -758,7 +783,7 @@ knitr::include_graphics("http://www.weedscience.org/images/weedid/316.jpg")
 
 - **Bainha:** pubescente
 
-- **Habitat:** 
+- **Habitat:** estradas, lotes, áreas ribeirinhas, áreas pertubadas
 
 ]
 
@@ -767,6 +792,9 @@ knitr::include_graphics("http://www.weedscience.org/images/weedid/316.jpg")
 knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/brachiaria_decumbens9.jpg?itok=IRuJVxak")
 ``` 
 
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/styles/large/public/images/brachiaria_decumbens18.jpg?itok=OMvZESWE")
+``` 
 
 
 ]
@@ -792,3 +820,161 @@ knitr::include_graphics("https://weeds.brisbane.qld.gov.au/sites/default/files/s
 knitr::include_graphics("images/decumbens.jpg")
 ``` 
 ]
+
+
+---
+
+
+class: inverse
+
+
+## Cyperaceae
+
+### Características
+
+.pull-left[
+
+- Monocotiledônea não gramínea.
+
+- **Fruto:** pequena, noz de 1 semente Flores: pequena, unissexual, sépalas e pétalas frequentemente ausentes
+
+- **Inflorescências:** frequentemente divididas em partes masculinas e femininas
+
+- **Folhas:** lineares, semelhantes a grama com nervuras paralelas
+
+- **Caules:** 3 lados, sem nós, sólidos (não ocos)
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("images/cyperus.png")
+``` 
+
+```{r echo=FALSE, out.width=170, fig.align='center'}
+knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2014/06/Slide5.JPG")
+```
+
+]
+
+
+---
+
+
+## *Cyperus esculentus*
+
+#### Nome comum: tiriricão
+
+.pull-left[
+**Ciclo de vida:** Planta perene, herbácea - 20 - 80 cm altura
+
+**Caule:** forma de triângulo sólida e sem nós e parece cerosa
+
+**Folhas:** mais basais, em 3 níveis, aglomeradas, verdes claras sem pelos
+
+**Flores:** espiguetas, delgadas, florzinhas muito reduzidas, rachilla alada - amarelada
+
+**Raízes:** raízes fibrosas e rizomas escamosos, alguns rizomas terminando em tubérculos duros 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.proturflawn.com/wp-content/uploads/2018/04/47000038@2x.jpg")
+``` 
+
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2014/06/nutlets%20Corey.jpg")
+``` 
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2014/06/Slide6.JPG")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2014/06/Slide4.JPG")
+``` 
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://turf.purdue.edu/wp-content/uploads/2014/06/aSquare.jpg")
+``` 
+]
+
+
+---
+
+
+## *Cyperus rotundus*
+
+#### Nome comum: tiririca
+
+.pull-left[
+
+**Ciclo de vida:** Planta perene, herbácea - 7 - 40 cm altura
+
+**Caule:** forma de triângulo sólida e sem nós e parece cerosa
+
+**Folhas:** mais basais, em 3 níveis, aglomeradas, verdes claras sem pelos
+
+**Flores:** espiguetas, delgadas - roxa-avermelhada
+
+**Raízes:** raízes fibrosas e rizomas escamosos, alguns rizomas terminando em tubérculos duros 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/purple-nutsedge-seedhead.jpg")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://www.gannett-cdn.com/presto/2020/05/24/PTAL/e85e9243-f57b-40fd-b2d5-3b720752c51b-Purple_nutsedge_TD_5-15-20.jpg?width=660&height=496&fit=crop&format=pjpg&auto=webp")
+``` 
+
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/purple-nutsedge-seedhead-3.jpg")
+``` 
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/purple-nutsedge-tuber-1.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/purple-nutsedge-tuber-2.jpg")
+``` 
+
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/purple-nutsedge-tuber-3.jpg")
+``` 
+]
+
+
+```{r echo=FALSE, out.width=170, fig.align='center'}
+knitr::include_graphics("https://www.ctahr.hawaii.edu/defrankj/weed_id_website/images/color%20slides/broadleaf%20weeds/images/10%20cyperus%20rotundus%20tubers.jpg")
+``` 
+
+
+---
+
+
+```{r echo=FALSE, out.width=470, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/purple-vs-yellow-nutsedge_qLQJrd9.jpg")
+``` 
+
+```{r echo=FALSE, out.width=470, fig.align='center'}
+knitr::include_graphics("https://content.ces.ncsu.edu/media/images/purple-vs-yellow-nutsedge-2.jpg")
+``` 
+
+A *C.rotundus* produz tubérculos em cadeias conectadas por rizomas, enquanto a *C.esculentus* só produz tubérculos nas pontas dos rizomas.
+
