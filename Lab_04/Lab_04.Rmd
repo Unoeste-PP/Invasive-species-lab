@@ -1,5 +1,5 @@
 ---
-title: "Manejo Integrado de Plantas Daninhas"
+title: "Biologia e Controle de Plantas Daninhas"
 subtitle: "Lab 4"
 author: "Maxwel Coura Oliveira🌱<br/>Department de Agronomia<br/>Universidade do Oeste Paulista"
 date: "<table style=\"border-style:none;padding-top:30px;\" class=\".table\">
@@ -36,6 +36,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 ```
 
 
+class: inverse
 
 
 ## Cucurbitaceae
@@ -117,6 +118,9 @@ knitr::include_graphics("https://i.pinimg.com/474x/1b/7a/b3/1b7ab383b60109e5e641
 
 ---
 
+class: inverse
+
+
 ## Commelinaceae
 
 ### Características
@@ -154,7 +158,6 @@ knitr::include_graphics("https://ars.els-cdn.com/content/image/1-s2.0-S2287884X1
 
 - **Folha:** simples, alternadas, sésseis ou curtamente pecioladas, bainha envolvendo o entrenó, aberta de um lado, estriada de vermelho e também pilosa
 
-- **Cotilédones:** 
 
 - **Caule:** caule rizomatoso e caule aéreo ereto a decumbente, muito ramificado, cilíndrico, verde e com esparsa pilosidade
 
@@ -200,6 +203,9 @@ knitr::include_graphics("https://cnas-re.uog.edu/wp-content/uploads/2015/10/Comm
 
 ---
 
+class: inverse
+
+
 ## Lamiaceae
 
 ### Características
@@ -222,7 +228,7 @@ knitr::include_graphics("https://cnas-re.uog.edu/wp-content/uploads/2015/10/Comm
 .pull-right[
 
 
-```{r echo=FALSE, out.width=350, fig.align='center'}
+```{r echo=FALSE, out.width=300, fig.align='center'}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/a/a8/Lamium_purpureum_jamestown1.jpg")
 ``` 
 
@@ -282,7 +288,7 @@ knitr::include_graphics("images/Leonotis_3.png")
 ]
 
 
----
+
 
 ---
 
@@ -296,7 +302,7 @@ knitr::include_graphics("images/Leonotis_3.png")
 
 - **Folha:** opostas, profundamente partidas e pubescentes em ambas as partes
 
-- **Inflorescência** 
+- **Inflorescência:** verticilada - produzidas em espirais em torno da metade superior ou mais do caule
 
 - **Caule:** quadrangular
 
@@ -304,7 +310,7 @@ knitr::include_graphics("images/Leonotis_3.png")
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=350, fig.align='center'}
+```{r echo=FALSE, out.width=250, fig.align='center'}
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Leonurus_sibiricus.jpg/1200px-Leonurus_sibiricus.jpg")
 ``` 
 
@@ -325,16 +331,19 @@ knitr::include_graphics("http://luirig.altervista.org/cpm/albums/fnam08/fnam3668
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=500, fig.align='center'}
+```{r echo=FALSE, out.width=250, fig.align='center'}
 knitr::include_graphics("http://luirig.altervista.org/cpm/albums/bot-hawaii18/08805-Leonurus-sibiricus.jpg")
 ``` 
 
-```{r echo=FALSE, out.width=500, fig.align='center'}
+```{r echo=FALSE, out.width=250, fig.align='center'}
 knitr::include_graphics("http://luirig.altervista.org/flora/maps/jpgcname.php?recn=157368&pid=119782&title=Mehaziki")
 ``` 
 ]
 
 ---
+
+class: inverse
+
 
 ## Apiaceae
 
@@ -346,7 +355,7 @@ knitr::include_graphics("http://luirig.altervista.org/flora/maps/jpgcname.php?re
 
 - **Aparência**: arbustos - geralmente aromáticos com hastes ocas; folhas de samambaia
 
-- **Folhas**: alternadamente, pinnately divididas
+- **Folhas**: alternadamente, nitidamente divididas
 
 - **Flores**: dispostas em umbelas; as flores são pequenas e geralmente radiais
 
@@ -429,6 +438,7 @@ knitr::include_graphics("https://imageproxy.themaven.net//https%3A%2F%2Fwww.hist
 
 ---
 
+class: inverse
 
 
 ## Oxalidacea
@@ -510,23 +520,25 @@ knitr::include_graphics("images/oxalis_4.png")
 
 ---
 
+class: inverse
+
 ## Polygonaceae
 
 ### Características
 
 .pull-left[
 
-- Herbáceas e trepadeiras herbáceas
+- Ervas e vinhas herbáceas
 
-- **Ciclo de vida**: Anuais, bianuais e perenes
+- Anuais, bienais e perenes
 
-- **Folhas**: alternativa, simples, inteira, basal ou caulina
+- **Folhas:** alternadas, simples, inteiras, basais ou caulinarias
 
-- **Flores**: perfeitas, imperfeitas ou funcionalmente unissexuais
+- **Flores:** perfeitas, imperfeitas ou funcionalmente unissexuais
 
-- **Frutas**: aquênio
+- **Frutas:** aquênio
 
-- Às vezes, estípulas das folhas embainham o caule, formando uma estrutura chamada "ócrea"
+- Estípulas das folhas às vezes envolvem o caule, formando uma estrutura chamada de 'Ócrea'
 ]
 
 .pull-right[
@@ -646,6 +658,9 @@ knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/248
 
 
 ---
+
+class: inverse
+
 
 ## Portulacaceae
 

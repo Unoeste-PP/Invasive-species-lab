@@ -59,6 +59,10 @@ class: inverse
 knitr::include_graphics("images/stem.png")
 ``` 
 
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://www.textures.com/system/gallery/photos/Nature/Leaves/9157/Leaves0019_7_download600.jpg")
+``` 
+
 
 ]
 
@@ -239,7 +243,7 @@ knitr::include_graphics("https://www.alabamaplants.com/Grasses/Cenchrus_echinatu
 ``` 
 
 ```{r echo=FALSE, out.width=220, fig.align='center'}
-knitr::include_graphics("https://lh3.googleusercontent.com/proxy/j2DpkPvgSUMAvWfj778WRAdoO-ZVkb0WWP_MwmiYY4smPRcGOwJUBaxigbMAk-cr-u5tFXMmpeaDgaChv9kasrruLC7uUD4prp-IDTcq-XHycI57HWqzMi-gpfQoSMXTJ3RNYjwHqd9M9AV4F5k5mARv")
+knitr::include_graphics("https://live.staticflickr.com/7207/6913874519_2ff8014e68_b.jpg")
 ``` 
 ]
 
@@ -559,7 +563,7 @@ knitr::include_graphics("http://ipm.ucanr.edu/PMG/IMAGES/E/W-GM-ECOL-SG.002.jpg"
 
 - **Rizomas:** rasteiros e grossos.
 
-- **Habitat:** 
+
 
 ]
 
@@ -775,7 +779,7 @@ knitr::include_graphics("https://plants.usda.gov/gallery/standard/chpo10_003_shp
 
 - **Ciclo de vida:** perene - decumbente
 
-- **Folha:** Pubescente
+- **Folha:** pubescente
 
 - **Aurículas:** Ausente
 

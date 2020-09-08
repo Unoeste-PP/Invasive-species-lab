@@ -36,7 +36,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 ```
 
 
----
+class: inverse
 
 ## Rubiaceae
 
@@ -69,7 +69,7 @@ knitr::include_graphics("https://pbs.twimg.com/media/EagDUEmXsAAvvhP?format=jpg&
 
 .pull-left[
 
-- **ciclo de vida:** herbácea anual
+- **Ciclo de vida:** herbácea anual
 
 - **Folha:** opostas, pubescentes
 
@@ -119,7 +119,7 @@ knitr::include_graphics("https://ncwildflower.org/images/plants/Diodia_teres_flo
 
 .pull-left[
 
-- **ciclo de vida:** anual, herbácea, prostrada
+- **Ciclo de vida:** anual, herbácea, prostrada
 
 - **Folha:** opostas cruzadas, com pecíolo muito curto ou ausente
 
@@ -161,7 +161,7 @@ knitr::include_graphics("images/poaia_4.jpg")
 ``` 
 ]
 
-
+---
 
 ## *Spermacoce latifolia*
 
@@ -169,15 +169,15 @@ knitr::include_graphics("images/poaia_4.jpg")
 
 .pull-left[
 
-- **ciclo de vida:** anual, herbácea, prostrada ou ascendente
+- **Ciclo de vida:** anual, herbácea, prostrada ou ascendente
 
-- **Folha:** nervuras impressas
+- **Folha:** alternadas, nervuras impressas, pubescentes
 
-- **Cotilédones:** 
+- **Flores:** aglomerados axilares
 
 - **Caule:** tetragonal com ângulos rígido-pubescentes
 
-- **Raiz:** 
+
 ]
 
 .pull-right[
@@ -217,7 +217,7 @@ knitr::include_graphics("https://www.agrolink.com.br/upload/problemas/Spermacoce
 
 .pull-left[
 
-- **ciclo de vida:** herbácea perene
+- **Ciclo de vida:** herbácea perene
 
 - **Folha:** simples, desprovidas de pecíolos, dispostas em forma de verticílios ao longo dos nós. Limbo linear-lanceolado com uma nervura bem acentuada
 
@@ -257,44 +257,11 @@ knitr::include_graphics("http://www.conabio.gob.mx/malezasdemexico/rubiaceae/bor
 ]
 
 
+
+
 ---
 
 class: inverse
-
-## Asclepiadaceae
-
-### Características
-
-.pull-left[
-
-Herbáceas, trepadeiras e arbustos principalmente perenes com seiva leitosa
-
-- **Sementes**: tufo de pelos sedosos
-
-- **Fruta**: folículos
-
-- **Flores**: pétalas perfeitas, muitas vezes carnudas
-
-- **Inflorescências**: geralmente umbelas
-
-- **Folhas**: simples, opostas ou voltas, inteiras
-
-
-
-
-]
-
-.pull-right[
-```{r echo=FALSE, out.width=350, fig.align='center'}
-knitr::include_graphics("https://cdn.shopify.com/s/files/1/1351/6403/products/Calotropis_SQ_693_1024x1024.jpg?v=1469314555")
-``` 
-
-- **Caules**: cheios de seiva leitosa
-]
-
-
-
----
 
 ## Solanaceae
 
@@ -330,7 +297,7 @@ knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Night
 
 .pull-left[
 
-- **ciclo de vida:** anual, herbácea, cheiro forte quando macerada, 
+- **Ciclo de vida:** anual, herbácea, cheiro forte quando macerada, 
 
 - **Folha:** alternadas, ovata-pontas pontiagudas, margens dentado-sinuado, glabro, macia
 
@@ -382,7 +349,7 @@ knitr::include_graphics("http://ipm.ucanr.edu/PMG/IMAGES/D/W-SO-DSTR-SD.001.jpg"
 
 .pull-left[
 
-- **ciclo de vida:** subarbustiva anual
+- **Ciclo de vida:** subarbustiva anual
 
 - **Folha:** alternadas helicoidais, simples, pecioladas e com o limbo muito desenvolvido e de forma ovalada, margens muito irregularmente recortadas ou serreadas
 
@@ -439,7 +406,7 @@ knitr::include_graphics("images/nicandra_2.png")
 
 .pull-left[
 
-- **ciclo de vida:** anual, herbácea, glabra
+- **Ciclo de vida:** anual, herbácea, glabra
 
 - **Folha:** alternadas com base estreitada continuando pelo pecíolo, limbo de
 forma ovalada ou lanceolada, com margens onduladas irregularmente
@@ -491,21 +458,28 @@ class: inverse
 
 
 .pull-left[
-- **Folhas**: 
 
-- **Inflorescência**: 
+- **Ciclo de vida:** herbáceo
 
-- **Flores**: 
+- **Folhas:** opostas, geralmente lineares a lanceoladas
 
-- **Frutas**: 
+- **Flores:** monoperiantadas ou diperiantadas, androceu com 5
+ou 10 estames e gineceu com 2 a 5 carpelos
 
-- **Cultivado**: 
+- **Frutos:** cápsulas loculicidas, deiscente por 2 a 10 valvas ou dentes apicais
+
+- **Cultivadas:** craveiros
+
 ]
 
 .pull-right[
-```{r echo=FALSE, out.width=450, fig.align='center'}
-knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Nightshade.jpg")
+```{r echo=FALSE, out.width=200, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Red_campion_close_700.jpg/220px-Red_campion_close_700.jpg")
 ``` 
+
+- Está representada no Brasil por espécies cultivadas como ornamentais e espécies
+consideradas invasivas
+
 ]
 
 ---
@@ -518,7 +492,7 @@ knitr::include_graphics("https://cdn.britannica.com/80/138780-050-63F55DC9/Night
 
 .pull-left[
 
-- **ciclo de vida:** anual, herbácea, cheiro forte quando macerada, 
+- **Ciclo de vida:** anual, herbácea, cheiro forte quando macerada, 
 
 - **Folha:** alternadas, ovata-pontas pontiagudas, margens dentado-sinuado, glabro, macia
 
@@ -556,6 +530,96 @@ knitr::include_graphics("https://content.ces.ncsu.edu/media/images/common-chickw
 knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/0/05/Kaldari_Stellaria_media_01.jpg")
 ``` 
 ]
+
+---
+
+
+class: inverse
+
+## Molluginaceae
+
+### Características
+
+
+.pull-left[
+- Herbáceas
+
+- Encontra-se representada no Brasil por 3 gêneros nativos
+
+- Grande diferenciação morfológica entre as espécies
+
+- **Ciclo de vida**: herbáceo, arbustivo
+
+- **Folhas**: simples, linear-lanceolado a quase orbicular e flores
+
+- **Flores:**  monoperiantadas, corola com 5 peças, androceu com 3 a muitos estames e gineceu pluricarpelar
+
+- **Frutos:** frutos secos do tipo cápsula com 3 valvas (ênero Mollugo)
+
+]
+
+
+
+
+
+.pull-right[
+```{r echo=FALSE, out.width=250, fig.align='center'}
+knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mollugo_verticillata_%28USDA%29.jpg/220px-Mollugo_verticillata_%28USDA%29.jpg")
+``` 
+]
+
+
+---
+
+
+## *Mollugo verticillata*
+
+#### Nome comum: capim-tapete
+
+.pull-left[
+
+- **Ciclo de vida:** anual
+
+- **Cotilédones:** são oblongos, espessos, lisos e de 1,5 a 3,0 mm de comprimento
+
+- **Folha:** macia, em espirais de 3-8 em cada nó.
+
+- **Caule:** liso e muito ramificado, deitado no chão com as pontas ascendentes (decumbentes)
+
+- **Inflorescência:** cachos de 2 a 5 com caules delgados de 5-15 mm de comprimento
+
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=500, fig.align='center'}
+knitr::include_graphics("https://www.backyardnature.net/n/09/090816cw.jpg")
+``` 
+]
+
+---
+
+.pull-left[
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2511optimized.jpg")
+``` 
+
+```{r echo=FALSE, out.width=300, fig.align='center'}
+knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2511optimized.jpg")
+``` 
+]
+
+.pull-right[
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/71optimized.jpg")
+``` 
+
+```{r echo=FALSE, out.width=350, fig.align='center'}
+knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2779optimized.jpg")
+``` 
+]
+
+
+
 
 ---
 
@@ -598,14 +662,13 @@ knitr::include_graphics("https://www.weedalogue.com/virginiaplantain/vp_02.jpg")
 
 .pull-left[
 
-- **ciclo de vida:** anual, herbácea - densamente pubescente
+- **Ciclo de vida:** anual, herbácea - densamente pubescente
 
 - **Folha:** roseta basal, nervura impressas
 
-- **Cotilédones:** 
-
 - **Caule:** acaule
 
+- **Reprodução:** sementes
 
 ]
 
