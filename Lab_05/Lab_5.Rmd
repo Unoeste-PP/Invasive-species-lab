@@ -492,15 +492,17 @@ consideradas invasivas
 
 .pull-left[
 
-- **Ciclo de vida:** anual, herbácea, cheiro forte quando macerada, 
+- **Ciclo de vida:** anual de inverno - prostrada
 
-- **Folha:** alternadas, ovata-pontas pontiagudas, margens dentado-sinuado, glabro, macia
+- **Cotilédone** ovado
 
-- **Cotilédones:** grosso, sem pêlos, longo e de contorno linear
+- **Folha:** pequena, em forma de ovo com uma ponta pontiaguda, opostos
 
-- **Caule:** ereto, ramificado na parte superior, verde-roxo 
+- **Flores:** 5 pétalas brancas com fendas profundas que podem levar você a acreditar que são 10
 
-- Contém alto nível de alcalóides (venenono)
+- **Caule:** Pubescente - uma única linha de pelos - correndo ao longo do comprimento do caule
+
+
 ]
 
 .pull-right[
@@ -604,7 +606,7 @@ knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/251
 ``` 
 
 ```{r echo=FALSE, out.width=300, fig.align='center'}
-knitr::include_graphics("https://weedid.missouri.edu/images/images_optimized/2511optimized.jpg")
+knitr::include_graphics("https://www.minnesotawildflowers.info/udata/r9ndp23q/pd/mollugo-verticillata-12948.jpg")
 ``` 
 ]
 
