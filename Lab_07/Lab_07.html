@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Introdução à calibração do pulverizador</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Maxwel Coura Oliveira🌱 Departamento de Agronomia Universidade do Oeste Paulista" />
+    <link href="Lab_07_files/remark-css/robot.css" rel="stylesheet" />
+    <link href="Lab_07_files/remark-css/robot-fonts.css" rel="stylesheet" />
+    <link href="Lab_07_files/font-awesome/css/all.css" rel="stylesheet" />
+    <link href="Lab_07_files/font-awesome/css/v4-shims.css" rel="stylesheet" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Introdução à calibração do pulverizador
+## Lab 7
+### Maxwel Coura Oliveira🌱<br/>Departamento de Agronomia<br/>Universidade do Oeste Paulista
+### <table style="border-style:none;padding-top:30px;" class=".table">
+<tr>
+<th style="padding-right:75px!important">
+<a href="https://twitter.com/maxwelco"> <i class="fa fa-twitter"></i> </a>
+</th>
+<th style="padding-left:75px!important">
+<a href="https://maxweeds.rbind.io"> <i class="fa fa-id-badge"></i> </a>
+</th>
+</tr>
+<tr style="background-color:#fff">
+<th style="padding-right:75px!important">
+<a href="https://github.com/maxwelco"> <span class="citation">@maxwelco</span> </a>
+</th>
+<th style="padding-left:75px!important">
+<a href="https://maxweeds.rbind.io"> maxweeds.rbind.io </a>
+</th>
+</tr>
+</table>
+
+---
+
+
+
+
+## calibrar (v.) -
+
+para definir um instrumento de forma que as leituras dele sejam absolutas e não relativas.
+
+---
+
+## Calibração
+
+- Nós calibramos para garantir que este
+
+&lt;img src="https://images.unsplash.com/photo-1593463897552-69da7e8343eb?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1350&amp;q=80" width="700" style="display: block; margin: auto;" /&gt;
+
+
+---
+
+## Calibração
+
+- Corresponda a isto
+
+&lt;img src="images/bula.png" width="700" style="display: block; margin: auto;" /&gt;
+
+
+---
+
+## Por que se preocupar em calibrar?
+--
+
+- Para maximizar o valor do pesticida
+--
+
+
+- Para minimizar danos à colheita
+--
+
+
+- Para garantir o uso da dose recomendada na bula
+
+
+---
+
+
+## Termos importantes
+
+&lt;img src="images/barra.png" width="700" style="display: block; margin: auto;" /&gt;
+
+
+---
+
+## Abreviações
+
+- Abreviações para formulações secas
+
+| Abbrev | Significado  | Exemplo |
+|--------|--------------|---------|
+| W, WP  | Pó molhável  |         |
+| DF, WG | Grânulos dispersíveis em água |   Spider&lt;sup&gt;®&lt;/sup&gt; 840WG      |
+| G      | Granular     |         |
+| P      | Pelotas      |         |
+
+
+- Abreviações para formulações líquidas
+
+| Abbrev | Significado               | Exemplo    |
+|--------|---------------------------|------------|
+| L, LF  | Fluido líquido            |            |
+| SC     | Concentrado Solúvel       | Facero SC  |
+| E, EC  | Concentrado Emulsificável | Sinerge EC |
+
+
+---
+
+## Bicos
+
+
+
+
+
+
+
+---
+
+## Bicos
+
+
+
+
+
+
+---
+
+## Bicos
+
+
+
+
+
+
+---
+
+## O Método de Fluxo Temporizado
+
+- Selecione o tipo de bico com base em
+    * Método de aplicação
+    * Condições ambientais
+    * Produto (pesticida)
+    * Pressão do pulverizador
+
+- Selecione a bico do bico (tamanho) com base em:
+    * Vazão: Litros por minutos (LPM)
+    * LPM baseado em: LPH, KMH, espaçamento dos bicos
+
+
+---
+
+
+
+- Se sabemos que:
+    - A calda que vamos aplicar (Litros/ha)
+    - A velocidade do pulverizador (Km/H)
+    - O espaçamento entre bicos (cm)
+    
+- Então como calculamos a vazão de cada bico do pulverizador por minuto (L&lt;sub&gt;*P*&lt;/sub&gt;M)?
+
+`$${LPM}=\frac{LPH * KPH * ESP}{60000}$$`
+
+---
+
+
+`$${LPM}=\frac{LPH * KPH * ESP}{60000}$$`
+De onde vem o valor 60000?
+
+
+&lt;img src="https://media.giphy.com/media/7TwPbkbwhIGx4PEAQt/giphy.gif" width="400" style="display: block; margin: auto;" /&gt;
+
+---
+
+# Fórmula
+
+.center[
+
+`$$\frac{Litros}{ha} * \frac{Km}{hr} * \frac{cm}{1} * \frac{1hr}{60\,min} * \frac{1\,ha}{100000000\,cm^2} * \frac{100000\,cm}{1\,km} = \frac{L}{min}$$` 
+
+&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+
+
+`$$\frac{Litros}{ha} * \frac{Km}{hr} * \frac{cm}{1} * \frac{1\,hr * 1\,ha * cm * cm}{60000 * min * cm^2 * km} = \frac{L}{min}$$`
+
+]
+
+
+---
+
+## Problema
+
+Um pulverizador de lavoura de baixa pressão é equipado com 16 bicos espaçados em centros de 50 cm. O volume de entrega desejado é de 140 LPH. O pulverizador é cronometrado a 8 kph em uma passagem de calibração de 300 m.
+
+Qual é a vazão da faixa de aplicação em litros / min (LPM)?
+
+&lt;img src="https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy.gif" width="300" style="display: block; margin: auto;" /&gt;
+
+
+---
+
+
+## Etapa 1
+
+### Descubra o LPM de cada bico
+
+`$${LPM}=\frac{LPH * KPH * ESP}{60000}$$`
+&lt;br&gt;&lt;br&gt;
+
+`$${LPM}=\frac{140 * 8 * 50}{60000}$$`
+
+&lt;br&gt;&lt;br&gt;
+
+`$${LPM}= 0.93 / bico$$`
+---
+
+
+## Etapa 2
+
+### Descubra a vazão da barra (LPM)
+
+`$$Vazão\,da\,barra = \frac{LPM}{bico} * \frac{bico}{barra}$$`
+&lt;br&gt;&lt;br&gt;
+
+`$$Vazão\,da\,barra = \frac{0.93}{bico} * \frac{16\,bicos}{barra}$$`
+&lt;br&gt;&lt;br&gt;
+
+`$$Vazão\,da\,barra = 14.88\,LPM$$`
+
+
+---
+
+
+### Qual a vazão do bico em mL/min?
+
+
+`$$\frac{0.93\,L}{min} * \frac{1000\,mL}{1\,L} = \frac{930\,mL}{min}$$`
+### Qual a vazão do bico em gal/min?
+
+`$$\frac{0.93\,L}{min} * \frac{1\,gal}{3.785\,L} = \frac{0.24\,gal}{min}$$`
+
+
+---
+
+## Pressão
+
+
+
+`$$\frac{V_1}{V_2} = \frac{\sqrt P_1}{\sqrt P_2}$$`
+
+
+---
+
+## Alterando a pressão
+
+Você sabe que o bico TeeJet 8002VS fornece 0,2 GPM quando a pressão está em 40 PSI. Se um agricultor precisa de um GPM de 0,18 usando este mesmo bico, a que pressão seu sistema deve estar?
+
+
+`$$\frac{V_1}{V_2} = \frac{\sqrt P_1}{\sqrt P_2}$$`
+
+`$$\frac{0.2}{0.18} = \frac{\sqrt 40}{\sqrt P_2}$$`
+`$$P_2 = 32.4\,PSI$$`
+---
+
+#### Qual é a diferença entre este pulverizador de safra autopropelido...
+
+
+&lt;img src="https://images.unsplash.com/photo-1593463897552-69da7e8343eb?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1350&amp;q=80" width="700" style="display: block; margin: auto;" /&gt;
+
+
+---
+
+#### ... e este pulverizador de mochila?
+
+&lt;img src="images/spraying.png" width="400" style="display: block; margin: auto;" /&gt;
+
+---
+
+
+
+
+
+
+---
+
+## Dúvidas?
+
+&lt;img src="https://www.ukcophumour.co.uk/wp-content/uploads/f2w/1526816_674334732588821_1244473478_n.jpg" width="400" style="display: block; margin: auto;" /&gt;
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
