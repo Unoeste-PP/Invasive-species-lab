@@ -39,6 +39,14 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome()) #show twitter logo
 
 para definir um instrumento de forma que as leituras dele sejam absolutas e não relativas.
 
+
+```{r echo=FALSE, out.width=700, fig.align='center'}
+knitr::include_graphics("images/calibrate.jpg")
+``` 
+
+
+
+
 ---
 
 ## Calibração
@@ -49,6 +57,15 @@ para definir um instrumento de forma que as leituras dele sejam absolutas e não
 knitr::include_graphics("https://images.unsplash.com/photo-1593463897552-69da7e8343eb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80")
 ``` 
 
+---
+
+## Calibração
+
+- ou este
+
+```{r echo=FALSE, out.width=700, fig.align='center'}
+knitr::include_graphics("images/aero_1.jpg")
+``` 
 
 ---
 
@@ -95,10 +112,10 @@ knitr::include_graphics("images/barra.png")
 
 | Abbrev | Significado  | Exemplo |
 |--------|--------------|---------|
-| W, WP  | Pó molhável  |         |
+| W, WP, SP  | Pó molhável  | Linurex Ag. 500 WP |
 | DF, WG | Grânulos dispersíveis em água |   Spider<sup>®</sup> 840WG      |
-| G      | Granular     |         |
-| P      | Pelotas      |         |
+| G, MG      | Granular     | Lava 100 |
+| P      | Peletizado      | Graslan 100 Peletizado |
 
 
 - Abreviações para formulações líquidas
@@ -106,8 +123,8 @@ knitr::include_graphics("images/barra.png")
 | Abbrev | Significado               | Exemplo    |
 |--------|---------------------------|------------|
 | L, LF  | Fluido líquido            |            |
-| SC     | Concentrado Solúvel       | Facero SC  |
-| E, EC  | Concentrado Emulsificável | Sinerge EC |
+| SC, SL | Concentrado Solúvel       | Facero SC  |
+| E, EC, EW, EO, ME, OD  | Concentrado Emulsificável | Topik 240 EC |
 
 
 ---
@@ -115,7 +132,76 @@ knitr::include_graphics("images/barra.png")
 ## Bicos
 
 
+```{r echo=FALSE, out.width=700, fig.align='center'}
+knitr::include_graphics("https://pbs.twimg.com/card_img/1310601433184698369/l2l39dbL?format=jpg&name=small")
+``` 
 
+
+---
+
+## Bicos
+
+
+```{r echo=FALSE, out.width=700, fig.align='center'}
+knitr::include_graphics("images/bicos.png")
+``` 
+
+```{r echo=FALSE, out.width=150, fig.align='center'}
+knitr::include_graphics("images/TTI.png")
+```
+
+
+---
+
+## Bicos
+
+
+```{r echo=FALSE, out.width=800, fig.align='center'}
+knitr::include_graphics("images/nozzle_3.png")
+``` 
+
+
+---
+
+## Bicos
+
+
+```{r echo=FALSE, out.width=800, fig.align='center'}
+knitr::include_graphics("images/nozzle_2.png")
+``` 
+
+---
+
+## Bicos
+
+
+```{r echo=FALSE, out.width=800, fig.align='center'}
+knitr::include_graphics("images/nozzle_1.png")
+``` 
+
+
+---
+
+## Bicos
+
+
+```{r echo=FALSE, out.width=800, fig.align='center'}
+knitr::include_graphics("images/drop_1.png")
+```
+---
+
+## Bicos
+
+
+```{r echo=FALSE, out.width=800, fig.align='center'}
+knitr::include_graphics("images/drop_1.png")
+```
+
+<br>
+
+.center[
+#### Qual dos bicos promovem gotas mais finas? Por quê?
+]
 
 
 
@@ -125,22 +211,25 @@ knitr::include_graphics("images/barra.png")
 ## Bicos
 
 
-
-
-
-
----
-
-## Bicos
-
-
-
-
+```{r echo=FALSE, out.width=800, fig.align='center'}
+knitr::include_graphics("images/drop_2.png")
+```
 
 
 ---
 
-## O Método de Fluxo Temporizado
+
+## Pressão
+
+
+```{r echo=FALSE, out.width=600, fig.align='center'}
+knitr::include_graphics("images/pressure.png")
+```
+
+
+---
+
+## Calibração do pulverizador
 
 - Selecione o tipo de bico com base em
     * Método de aplicação
@@ -162,9 +251,18 @@ knitr::include_graphics("images/barra.png")
     - A velocidade do pulverizador (Km/H)
     - O espaçamento entre bicos (cm)
     
-- Então como calculamos a vazão de cada bico do pulverizador por minuto (L<sub>*P*</sub>M)?
+- Então como calculamos a vazão de cada bico do pulverizador por minuto (LPM)?
 
 $${LPM}=\frac{LPH * KPH * ESP}{60000}$$
+- LPM = Litros por minutos (L/min)
+
+- LPH = Litros por hectare (L/ha)
+
+- KPH = Kilometros por hora (km/h)
+
+- ESP = Espaçamento entre bicos (cm)
+
+
 
 ---
 
@@ -287,10 +385,6 @@ knitr::include_graphics("https://images.unsplash.com/photo-1593463897552-69da7e8
 ```{r echo=FALSE, out.width=400, fig.align='center'}
 knitr::include_graphics("images/spraying.png")
 ``` 
-
----
-
-
 
 
 
