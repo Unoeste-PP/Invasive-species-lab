@@ -179,6 +179,19 @@ knitr::include_graphics("images/nozzle_2.png")
 knitr::include_graphics("images/nozzle_1.png")
 ``` 
 
+---
+
+## Bicos
+
+```{r echo=FALSE, out.width=400, fig.align='center'}
+knitr::include_graphics("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd163axztg8am2h.cloudfront.net%2Fstatic%2Fimg%2F7e%2Ffa%2F19cde635e2b006df9af3d84a36fe.jpg&f=1&nofb=1")
+```
+
+<br>
+
+.center[
+**Qual a informação temos nesse bico?**
+]
 
 ---
 
@@ -253,21 +266,21 @@ knitr::include_graphics("images/pressure.png")
     
 - Então como calculamos a vazão de cada bico do pulverizador por minuto (LPM)?
 
-$${LPM}=\frac{LPH * KPH * ESP}{60000}$$
-- LPM = Litros por minutos (L/min)
+$${l/min}=\frac{l/ha * km/h * Esp}{60000}$$
+- l/min = Litros por minutos (L/min)
 
-- LPH = Litros por hectare (L/ha)
+- l/ha = Litros por hectare (L/ha)
 
-- KPH = Kilometros por hora (km/h)
+- km/h = Kilometros por hora (km/h)
 
-- ESP = Espaçamento entre bicos (cm)
+- Esp = Espaçamento entre bicos (cm)
 
 
 
 ---
 
 
-$${LPM}=\frac{LPH * KPH * ESP}{60000}$$
+$${l/min}=\frac{l/ha * km/h * Esp}{60000}$$
 De onde vem o valor 60000?
 
 
@@ -296,9 +309,9 @@ $$\frac{Litros}{ha} * \frac{Km}{hr} * \frac{cm}{1} * \frac{1\,hr * 1\,ha * cm * 
 
 ## Problema
 
-Um pulverizador de lavoura de baixa pressão é equipado com 16 bicos espaçados em centros de 50 cm. O volume de entrega desejado é de 140 LPH. O pulverizador é cronometrado a 8 kph em uma passagem de calibração de 300 m.
+Um pulverizador de lavoura de baixa pressão é equipado com 16 bicos espaçados em centros de 50 cm. O volume de entrega desejado é de 140 l/ha. O pulverizador é cronometrado a 8 km/h em uma passagem de calibração de 300 m.
 
-Qual é a vazão da faixa de aplicação em litros / min (LPM)?
+Qual é a vazão da faixa de aplicação em l/min ?
 
 ```{r echo=FALSE, out.width=300, fig.align='center'}
 knitr::include_graphics("https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy.gif")
@@ -310,30 +323,30 @@ knitr::include_graphics("https://media.giphy.com/media/APqEbxBsVlkWSuFpth/giphy.
 
 ## Etapa 1
 
-### Descubra o LPM de cada bico
+### Descubra o l/min de cada bico
 
-$${LPM}=\frac{LPH * KPH * ESP}{60000}$$
+$${l/min}=\frac{l/ha * km/h * Esp}{60000}$$
 <br><br>
 
-$${LPM}=\frac{140 * 8 * 50}{60000}$$
+$${l/min}=\frac{140 * 8 * 50}{60000}$$
 
 <br><br>
 
-$${LPM}= 0.93 / bico$$
+$${l/min}= 0.93 / bico$$
 ---
 
 
 ## Etapa 2
 
-### Descubra a vazão da barra (LPM)
+### Descubra a vazão da barra (l/min)
 
-$$Vazão\,da\,barra = \frac{LPM}{bico} * \frac{bico}{barra}$$
+$$Vazão\,da\,barra = \frac{l/min}{bico} * \frac{bico}{barra}$$
 <br><br>
 
 $$Vazão\,da\,barra = \frac{0.93}{bico} * \frac{16\,bicos}{barra}$$
 <br><br>
 
-$$Vazão\,da\,barra = 14.88\,LPM$$
+$$Vazão\,da\,barra = 14.88\,l/min$$
 
 
 ---
@@ -361,12 +374,17 @@ $$\frac{V_1}{V_2} = \frac{\sqrt P_1}{\sqrt P_2}$$
 
 ## Alterando a pressão
 
-Você sabe que o bico TeeJet 8002VS fornece 0,2 GPM quando a pressão está em 40 PSI. Se um agricultor precisa de um GPM de 0,18 usando este mesmo bico, a que pressão seu sistema deve estar?
+Você sabe que o bico TeeJet 8002VS fornece 0,2 GPM (gal/min) quando a pressão está em 40 PSI. Se um agricultor precisa de um GPM de 0,18 usando este mesmo bico, a que pressão seu sistema deve estar?
 
 
 $$\frac{V_1}{V_2} = \frac{\sqrt P_1}{\sqrt P_2}$$
+--
+
 
 $$\frac{0.2}{0.18} = \frac{\sqrt 40}{\sqrt P_2}$$
+--
+
+
 $$P_2 = 32.4\,PSI$$
 ---
 
